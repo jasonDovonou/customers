@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS customers (id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT, firstname TEXT, cp TEXT, city TEXT, number TEXT, phone TEXT, other TEXT);

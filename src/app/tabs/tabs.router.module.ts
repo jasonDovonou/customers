@@ -18,6 +18,16 @@ const routes: Routes = [
         ]
       },
       {
+        path: 'visits',
+        children: [
+          {
+            path: '',
+            loadChildren: () =>
+              import('../visits/visits.module').then(m => m.VisitsPageModule)
+          }
+        ]
+      },
+      {
         path: 'settings',
         children: [
           {
@@ -29,14 +39,14 @@ const routes: Routes = [
       },
       {
         path: '',
-        redirectTo: '/tabs/customers',
+        redirectTo: '/tabs/visits',
         pathMatch: 'full'
       }
     ]
   },
   {
     path: '',
-    redirectTo: '/tabs/customers',
+    redirectTo: '/tabs/visits',
     pathMatch: 'full'
   }
 ];

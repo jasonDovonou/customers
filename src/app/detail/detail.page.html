@@ -1,9 +1,104 @@
 <ion-header>
-  <ion-toolbar>
-    <ion-title>detail</ion-title>
+  <ion-toolbar color="primary">
+    <ion-buttons mode="md" slot="start">
+      <ion-button style="color:white" (click)="back()">
+        <ion-icon mode="md" name="arrow-back"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+    <ion-title>Informations</ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content>
-
+  <ion-grid>
+    <ion-row>
+      <ion-col size="3" class="">
+        <ion-item lines=none mode="ios">
+          <ion-label position="stacked">Nom </ion-label>
+          <ion-input [(ngModel)]="customer.name" required></ion-input>
+        </ion-item>
+      </ion-col>
+      <ion-col size="3" class="">
+        <ion-item lines=none mode="ios">
+          <ion-label position="stacked">Prénom </ion-label>
+          <ion-input [(ngModel)]="customer.firstname" required> </ion-input>
+        </ion-item>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col size="3" class="">
+        <ion-item lines=none mode="ios">
+          <ion-label position="stacked">Code Postal </ion-label>
+          <ion-input [(ngModel)]="customer.cp" required></ion-input>
+        </ion-item>
+      </ion-col>
+      <ion-col size="3" class="">
+        <ion-item lines=none mode="ios">
+          <ion-label position="stacked">Ville </ion-label>
+          <ion-input [(ngModel)]="customer.city" required></ion-input>
+        </ion-item>
+      </ion-col>
+      <ion-col size="1" class="">
+      </ion-col>
+      <ion-col size="3">
+        <ion-item lines=none mode="ios">
+          <ion-label position="stacked">Dernier Passage </ion-label>
+          <ion-input type="date" [(ngModel)]="customer.last" (ionChange)="calc()"></ion-input>
+        </ion-item>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col size="3" class="">
+        <ion-item lines=none mode="ios">
+          <ion-label position="stacked">Teléphone </ion-label>
+          <ion-input [(ngModel)]="customer.number" required></ion-input>
+        </ion-item>
+      </ion-col>
+      <ion-col size="3" class="">
+        <ion-item lines=none mode="ios">
+          <ion-label position="stacked">Portable </ion-label>
+          <ion-input [(ngModel)]="customer.phone" required></ion-input>
+        </ion-item>
+      </ion-col>
+      <ion-col size="1" class="">
+      </ion-col>
+      <ion-col size="3" class="">
+        <ion-item lines=none mode="ios">
+          <ion-label position="stacked">Periodicité </ion-label>
+          <ion-input type="number" min="0" [(ngModel)]="customer.period" required (ionChange)="calc()"></ion-input>
+        </ion-item>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col size="3" class="">
+        <ion-item lines=none mode="ios">
+          <ion-label position="stacked">Divers </ion-label>
+          <ion-input [(ngModel)]="customer.other" required></ion-input>
+        </ion-item>
+      </ion-col>
+      <ion-col size="3" class="">
+        <ion-item lines=none mode="ios">
+          <ion-label position="stacked">Bureau </ion-label>
+          <ion-input [(ngModel)]="customer.office" required></ion-input>
+        </ion-item>
+      </ion-col>
+      <ion-col size="1" class="">
+      </ion-col>
+      <ion-col size="3" class="">
+        <ion-item lines=none mode="ios">
+          <ion-label position="stacked">Prochain Passage </ion-label>
+          <ion-input type="date" [(ngModel)]="customer.next" (ionChange)="calculate()"></ion-input>
+        </ion-item>
+      </ion-col>
+    </ion-row>
+    <ion-row *ngIf="id!=='-1'" style="margin-top:50px">
+      <ion-col>
+        <ion-button mode="md" (click)="add(false)">Sauvegarder</ion-button>
+      </ion-col>
+      <ion-col>
+        <ion-button mode="md" (click)="delete()">Supprimer</ion-button>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+  <ion-button *ngIf="id==='-1'" style="margin-top:60px" mode="md" (click)="add(true)">Ajouter</ion-button>
 </ion-content>

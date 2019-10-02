@@ -24,3 +24,45 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+
+ion-button {
+    display: block;
+    color: white;
+    --border-radius: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+ion-input {
+    .native-input {
+        border: 1px solid #eeeeee !important;
+        padding: 0 !important;
+    }
+}
+
+.cell {
+    text-align: center;
+    border: 1px solid #2476b0;
+}
+
+.white {
+    background-color: white;
+}
+
+.blue {
+    background-color: #155f94;
+    color: #ffff;
+}
+
+.heads {
+    font-weight: bold;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.25;
+}
+
+.hov:hover {
+    background-color: #e6f3ff;
+}

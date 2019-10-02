@@ -5,5 +5,14 @@
     </ion-title>
   </ion-toolbar>
 </ion-header>
-
-<ion-content></ion-content>
+<ion-content>
+  <ion-list>
+    <ion-item lines=none mode="ios" style="font-size:13px;text-align:center">
+      Nombre de jours à partir duquel les clients sont considérés comme étant à visiter (par défaut 7)
+    </ion-item>
+    <ion-item lines=none mode="ios">
+      <ion-label position="fixed" style="font-size:13px">Nombre de jours </ion-label>
+      <ion-input type=number min="0" [(ngModel)]="display" (ionChange)="save()" required></ion-input>
+    </ion-item>
+  </ion-list>
+</ion-content>

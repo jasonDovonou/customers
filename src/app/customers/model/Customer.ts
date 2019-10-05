@@ -1,28 +1,35 @@
 export class Customer {
     id: number;
+    start: string;
+    type: string;
+    sex: string;
     name: string;
     firstname: string;
+    adress: string;
     cp: string;
     city: string;
-    number: string;
+    fixe: string;
     phone: string;
     office: string;
+    fax: string;
     other: string;
+    resident: string;
+    activity: string;
+    origin: string;
+    age: string;
+    water: string;
+    machine: string;
+    soft: string;
+    infos: string;
+    tarif: string;
+    model: string;
+    invoice: string;
     last: string;
     period: number;
     next: string;
     constructor() {
-        this.name = '';
-        this.firstname = '';
-        this.cp = '';
-        this.city = '';
-        this.number = '';
-        this.phone = '';
-        this.office = '';
-        this.other = '';
         this.last = Customer.convertDate(new Date());
         this.period = 0;
-        this.next = '';
     }
 
     public static convertDate(inputFormat) {

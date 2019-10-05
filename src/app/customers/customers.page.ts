@@ -14,6 +14,7 @@ export class CustomersPage extends RouterPage implements OnDestroy {
   customers: any[] = [];
   constructor(private db: DatabaseService, private router: Router, private route: ActivatedRoute) { super(router, route) }
   onEnter() {
+    this.db.loadCustomers();
     this.db.getCustomers().subscribe(customers => {
       this.customers = customers;
     })

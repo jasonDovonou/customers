@@ -1,14 +1,13 @@
 import { Component, OnDestroy } from '@angular/core';
 import { DatabaseService } from '../services/database.service';
 import { Router, ActivatedRoute } from '@angular/router';
-import { Customer } from '../customers/model/Customer';
+import { Customer } from '../tabs/model/Customer';
 import { AlertController } from '@ionic/angular';
 import { RouterPage } from '../RouterPage';
 
 @Component({
   selector: 'app-detail',
   templateUrl: './detail.page.html',
-  styleUrls: ['./detail.page.scss'],
 })
 export class DetailPage extends RouterPage implements OnDestroy {
   id: string;

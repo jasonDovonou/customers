@@ -1,0 +1,700 @@
+20/07/2009;Client;;Izard;Regine;chemin de la Grave;11400;Souilhe;04 68 60 08 85;;;;;0;;;;;non;non;04061/413;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Abat-Jakubiec;;688, ancienne 113;11400;St Martin Lalande;04 30 35 61 55;;;;;0;;;;;non;non;8033;Tarif catalogue;Standard;TTC
+01/07/2015;Client;;Faivre;Adrienne;2, chemin de l'Estoupe;11320;Labastide d'Anjou;;06 07 08 63 82;;;;0;;;;;non;non;4;Tarif catalogue;Standard;TTC
+03/04/2013;Client;;Les Sentiers du Lac;;13, rue Auguste Palleville;81540;Soreze;;06 22 00 19 26;;;ducosal@wanadoo.fr;0;;;;;non;non;03048/522 voir PP neutral sol, surodorant et les torchons;Tarif catalogue;Standard;TTC
+05/01/2015;Client;;giusti;Monia;bat.27 c;20600;Bastia;;06 81 99 70 95;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Doumic;Therese;LR  10, avenue Julien Nougier;31250;Revel;05 34 66 40 03;;;;;0;;;;;non;non;1013;Tarif catalogue;Standard;TTC
+28/01/2013;Client;;Xavier;Romain;24, arvenue des Pyrenees;11400;Castelnaudary;06 33 70 09 09;;;;;0;;;;;non;non;09069/499;Tarif catalogue;Standard;TTC
+29/07/2009;Client;;Marquier;beatrice;;11400;Saint Papoul;04 30 35 08 21;;;;;0;;;;;non;non; 08023/103 Voir Saffont Laurent;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Vivaldi;Cathie;"En Pouchou""""";11400;Laurabuc;04 68 23 01 94;;;;;0;;;;;non;non;2001;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Coquart;Daniele;31270 Frouzins;31270;Frouzins;;;;;mimitche@free.fr;0;;;;;non;non;10024;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Vidal;Virginie;"La Grave""  D116""";11270;Generville;04 68 60 48 83;;;;;0;;;;;non;non;2019;Tarif catalogue;Standard;TTC
+24/11/2014;Client;;Delgenes;Evelyne;21b boulevard des Tourelles;9270;Mazeres;05 61 69 49 03;06 10 03 37 82;;;evelinedelgenes@gmail.com;1;Retraites;;;;non;non;10076/599;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Vialette;Raymonde;Impasse Claude Bernard;11400;Castelnaudary;04 68;;;;;0;;;;;non;non;9007;Tarif catalogue;Standard;TTC
+18/03/2012;Divers;;Franckhauser;Siegfried;Polyclinique Montreal route de Bram;11890;Carcassonne;;;04 68 11 53 23;;;0;;;;;non;non;Chirurgien Maxilo-Facial;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Vernhes;Christiane;"Villagre""""";11400;Lasbordes;04 68 94 27 59;;;;;0;;;;;non;non;8028;Tarif catalogue;Standard;TTC
+22/09/2011;Prospect;;Mascaro;Nadine;3, rue des Amandiers;11150;Pexiora;04 68 60 30 05;;;;;0;;;;;non;non;6;Tarif catalogue;Standard;TTC
+08/05/2012;Client;;Vandewalle;Cindy;3, rue du Terrier;11400;Castelnaudary;;06 72 28 93 00;;;;0;;;;;non;non;09065/455;Tarif catalogue;Standard;TTC
+27/09/2011;Client;;Maignant;Carole;Chemin du Passelis;31250;Revel;;06 18 13 20 43;;;;0;;;;;non;non;1027403;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Van Balkon;Corinne;"Les Mouilleres""""";11400;La Pomarede;;06 26 96 29 33;;;;0;;;;;non;non;7007;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Cloaguen;Jocelyne;3, place Jean-Jaures;;Aussonne;05 62 13 74 05;;;;;0;;;;;non;non;10001;Tarif catalogue;Standard;TTC
+05/03/2010;Client;;Valverde;Regine;Ste Marie rte des Crozes;11400;Castelnaudary;04 68 23 58 70;;;;;2;Retraites;;;;non;non;09028/172 M. Rigaud Henry;Tarif catalogue;Standard;TTC
+09/04/2014;Client;;Costes;Valerie;142, chemin de la Landelle;81540;Soreze;05 63 50 20 68;;;;costes.valerie@neuf.fr;0;;;;;non;non;03056/563;Tarif catalogue;Standard;TTC
+23/10/2012;Client;;Valois;Noelle;;;LA Jarrie;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;De Gouttes;Christine;8 bis chemin Devals et Carpinel;;Revel;;;;;;0;;;;;non;non;1007;Tarif catalogue;Standard;TTC
+28/08/2012;Client;;Vallois;Noelle;"37, rue du Pont BricaudLa Jarrie""""";44390;Petit Mars;02 40 72 76 33;;;;Noelle.vallois@orange.fr;0;;;;;non;non;10047/474;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Diem;Marcelle;17, rue du 19 mars 1962;;Soreze;05 63 74 20 07;;;;;0;;;;;non;non;3016;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Arnaud;Jean;"Encallet"" rue des Peupliers""";11410;Baraigne;04 68 60 44 12;;;;;0;;;;;non;non;04040/290;Tarif catalogue;Standard;TTC
+11/03/2014;Client;;Gatier;Denise;;;;;;;;;0;;;;;non;non;Voir M. Mahieu;Tarif catalogue;Standard;TTC
+21/06/2010;Client;;Valette;Martine;"Seville""""";11150;Villasavary;04 68 24 77 31;;;;;0;;;;;non;non;06018/228;Tarif catalogue;Standard;TTC
+13/08/2010;Client;;Etienne;Jean;"Miraillou""""";11400;Souihanels;04 68 60 03 11;;;;;2;Retraites;;;;non;non;04023/245;Tarif catalogue;Standard;TTC
+21/06/2010;Client;;Valette;Martine;"Seville""""";11150;Villasavary;04 68 24 77 31;;;;;0;;;;;non;non;06018/228 Ancienne cliente qui apres avoir rompu me redemande Hakabella meuble.;Tarif catalogue;Standard;TTC
+15/05/2014;Client;;Maussion ;Laurence;19, Grand Rue;11300;Pauligne;04 68 31 55 06;06 33 08 44 05;;;lce.maussion@yahoo.fr;3;;;;;oui;non;10069/571;Tarif catalogue;Standard;TTC
+31/03/2017;Client;;VAST;Bernard;;3420;TERJAT;;;;;;0;;;;;non;non;;Retrocession;Standard;TTC
+04/03/2012;Client;;Marty;Jacqueline;239,  rue des 13 vents;11400;St Martin ;04 68 94 83 41;;;;;0;;;;;non;non;8031;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Turluque;Yannick;chemin de St Roch;;Revel;05 61 24 34 48;;;;;0;;;;;non;non;1008;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Mairie;St Papoul;;;St Papoul;;;;;;0;;;;;non;non;8024;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Tronquet;Nicole;218, allee des Erables;;Castelnaudary;04 68 23 21 37;;;;;0;;;;;non;non;9041;Tarif catalogue;Standard;TTC
+24/04/2013;Client;;Limouzy;Lucette;52, Bd 1848;11100;Narbonne;04 68 32 07 42;;;;;2;;;;;non;non;;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Thurios;Martine;"""La Toune""""""""";;Issel;04 68 94 12 43;;;;;0;;;;;non;non;5024;Tarif catalogue;Standard;TTC
+10/08/2010;Client;;Lefevre;Nathalie;"Le Cammas"" chemin de l'Hort""";11400;Laurabuc;04 68 23 61 37;;;;;0;;;;;non;non;02012/242;Tarif catalogue;Standard;TTC
+16/04/2010;Client;;Teixeira;Isabelle;856, chemin d'Entouzet;11400;Castelnaudary;04 68 94 12 82;;;;teixfamily@gmail.com;0;;;;;non;non;09033/179;Tarif catalogue;Standard;TTC
+08/03/2012;Client;;Combes;Genevieve;"Les Crins""""";11250;Ladern/Lauquet;04 68 69 64 92;;;;getmcombes@neufonline.fr;0;;;;;non;non;10035/432 PP/proposer un torchon ref.1940 et un chiffon micro-fibre pour vitre ref. 0356;Tarif catalogue;Standard;TTC
+24/04/2017;Client;;TIXIER;;;;;;;;;valtixiersaby@free.fr;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Cortella;Michele;56, route de Laurac;;Laurabuc;09 77 85 86 53;;;;;0;;;;;non;non;2016;Tarif catalogue;Standard;TTC
+14/03/2017;Client;;BELIN;ISABELLE;;;;;;;;;0;;;;;non;non;;Retrocession;Standard;TTC
+04/03/2012;Client;;Keller;Laurence;"""la Barriere"""" rte de """"l'Albarel""""""""";;Vaure;Sans;;;;;0;;;;;non;non;1022;Tarif catalogue;Standard;TTC
+26/04/2017;Client;;BIDAULT;;;63700;BUXIERES;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+15/10/2010;Client;;Houdet;Rosette;Chemin de Gris;11400;Souillhanels;06 13 93 98 99;;;;;0;;;;;non;non;04051/367;Tarif catalogue;Standard;TTC
+14/03/2017;Client;;BONOMINI;DIDIER;;;;;;;;;0;;;;;non;non;;Retrocession;Standard;TTC
+17/07/2015;Client;;Hammond;Clive;"Canto Gril""""";11410;Mezerville;09 62 11 58 56;;;;clive.hammond@wanadoo.fr;2;Retraites;;;;non;non;10083/624;Tarif catalogue;Standard;TTC
+14/03/2017;Client;;BORGNE;CLAUDINE;;;;;;;;;0;;;;;non;non;;Retrocession;Standard;TTC
+11/11/2015;Client;;Des anciens combattants de Soreze;;17, rue Rastoul;81540;Soreze;05 63 74 13 73;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+26/08/2017;Client;;BRABANT-CHAIX;Angela;22 Avenue du 11 novembre;81170;CORDE SUR CIEL;;;;;angela.brabantchaix@yahoo.fr;0;;;;;non;non;;Retrocession;Standard;TTC
+04/03/2012;Client;;Glat;Cathy;9, lot. la Bourdette Avignonet;;Avignonet;05 61 8112 49;;;;;0;;;;;non;non;10017;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Babou;Marie;"La Goutine""                   Route de Carlipa""";11170;Carlipa;04 68 94 22 44;;;;;0;;;;;non;non;8012;Tarif catalogue;Standard;TTC
+18/03/2012;Client;;Giese;Peter;"La Ginelle""""";11320;Airoux;;06 80 60 39 27;;;;0;;;;;non;non;"Responsable du site La Ginelle""""";Tarif catalogue;Standard;TTC
+12/05/2009;Prospect;;Stachula;Sandrine;chemin de la Montagne;11400;La Pomarede;04 68 23 05 88;;;;;0;;;;;non;non;7;Tarif catalogue;Standard;TTC
+06/06/2011;Client;;Gacquiere;Lina;"Villemagne""""";11400;Labecede;04 68 60 44 89;;;;;2;;;;;non;non;05042/131;Tarif catalogue;Standard;TTC
+17/10/2014;Client;;Bacha;Virginie;1, rue des Vignes;11620;Villamoustaussou;04 68 47 39 03;06 25 51 44 04;;;virginiebacha.facadeconquoise@sfr.fr;4;;;;;non;non;10074/595;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Estanbigou;Centre de soins;16, avenue du Languedoc;;Castelnaudary;;;;;;0;;;;;non;non;9027;Tarif catalogue;Standard;TTC
+04/03/2012;Prospect;;Bailly;Janine;"St Jacques""  D371""";11150;Villasavary;04 68 24 64 75;;;;;0;;;;;non;non;6028;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Fabre;Eliette;6, rue des Noisetiers;81540;Durfort;05 63 74 15 43;06 82 62 04 58;;;;0;;;;;non;non;05035/118;Tarif catalogue;Standard;TTC
+09/04/2010;Client;;Simon;Michel;1608 tte des Souilhanels;11400;Castelnaudary;;06 11 76 64 71;;;;0;;;;;non;non;09029/174;Tarif catalogue;Standard;TTC
+11/12/2009;Client;;Medyouni;Nabia;4, rue Edmont Rostand;11400;Castelnaudary;06 15 29 66 37;;;;;0;Entretien locaux;;;;non;non;09017/147;Tarif catalogue;Standard;TTC
+04/03/2012;Prospect;;Baldazzini;Laurence;"Majeste""""";;Montferrand;06 20 73 03 92;;;;;0;;;;;non;non;7018;Tarif catalogue;Standard;TTC
+22/01/2013;Client;;Mauran;Francis;"Ricol Bas""""";31460;Auriac sur Vendinelle;05 61 83 15 24;;;;;0;;;;;non;non;10052/497;Tarif catalogue;Standard;TTC
+03/03/2014;Client;;Balducci;Fiorina;2, impasse de Sicart;11150;Pexiora;;07 81 16 98 38;;;fiorina.balducci@laposte.net;2;Employe;;20 e 40;;oui;non;06053/577;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Caubet;Valerie;17, route de Treville;11400;Peyrens;04 68 60 40 32;;;;;0;;;;;non;non;8015;Tarif catalogue;Standard;TTC
+17/03/2010;Client;;Serrano;Jany;25, rue Albert Camus;11400;Castelnaudary;04 68 23 53 67;;;;;0;;;;;non;non;09035/182;Tarif catalogue;Standard;TTC
+15/02/2013;Client;;Mars;Marie-Pierre;"L'Assaladou""""";9500;Viviez;05 61 68 75 16;;;;;0;;;;;non;non;10056/505;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Selam;Ginette;26, rue de Floralies;;Revel;05 61 83 30 25;;;;;0;;;;;non;non;1016;Tarif catalogue;Standard;TTC
+18/03/2012;Divers;;Maris;Catie;"Barrric""""";11400;Lasbordes;04 68 94 30 66;06 45 33 22 84;;;;0;;;;;non;non;Tapissiere decoratrice;Tarif catalogue;Standard;TTC
+25/01/2013;Client;;Barat;Virginie;2, rue des Trois Ponts;11570;Villeflour;04 68 69 46 45;;;;virginiebarat@wanadoo.fr;0;;;;;non;non;10053/498;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Cesco;Yolande;"Les Peupliers""  D302""";11400;Labecede;04 68 60 41 49;;;;;0;;;;;non;non;5003;Tarif catalogue;Standard;TTC
+18/09/2009;Client;;Barbe;Solange;11, Pre du Manahout;81540;Soreze;05 63 50 21 91;;;;;0;;;;;non;non;03010/222;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Lopez;Garcia;Impasse des Champs;11400;Souillhanels;04 68 23 16 39;;;;;0;;;;;non;non;04047/331;Tarif catalogue;Standard;TTC
+28/01/2015;Client;;Scolard;Yolande;25, rue Jean Durand;11400;Castelnaudary;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+29/09/2015;Client;;Chavernac;Martine;;11150;Bram;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+14/05/2009;Client;;Schweizer;Danielle;44, rue Laperrine;11400;Castelnaudary;04 68 23 22 64;;;;;1;;;;;non;non;09003/004;Tarif catalogue;Standard;TTC
+01/06/2012;Client;;Lerousseau;Lisette;;11270;fanjeau;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+10/03/2012;Client;;Schwab;Richard;36, Rue  de l'Altenberg;67220;Dieffenbach au Val;03 88 57 60 42;;;;wasser.sylvie@wanadoo.fr;2;Retraites;;41 e 60;;oui;non;10036/433;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Lechaux;Yann;"Latrie""  D33""";11400;Mas Stes Puelles;06 31 67 97 97;;;;;0;;;;;non;non;04022/244;Tarif catalogue;Standard;TTC
+01/03/2012;Client;;Scaldalai;Veronique;1 chemin du pigeonnnier;11150;Villepinte;04 68 60 22 93;;;;;0;Entretien locaux;;;;non;non;08058/428;Tarif catalogue;Standard;TTC
+15/12/2014;Client;;Coiffure Glam;;50 route de Bordeaux;33500;Arveyres;05 57 24 80 31;;;;;0;;;;;non;non;10077/603;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Sarrazin;Anne;"""La Bourdette""""""""";;Issel;04 68 60 41 77;;;;;0;;;;;non;non;5052;Tarif catalogue;Standard;TTC
+24/06/2010;Client;;Lapasset;Michelle;"Lauzil"" D15""";11270;Laurac;04 68 24 73 47;;;;;0;;;;;non;oui;02011/240;Tarif catalogue;Standard;TTC
+10/06/2010;Client;;Sanchez;Fabienne;"""La Plaisance""""""""";11150;Villasavary;06 85 68 83 70;;;;;0;Femme au foyer;;;;non;non;06032/285;Tarif catalogue;Standard;TTC
+29/04/2015;Client;;Coronimas;Janine;5, avenue de Carcassonne;11170;Alzonne;04 68 76 07 85;;;;sans;0;;;;;non;non;10080/614;Tarif catalogue;Standard;TTC
+25/04/2017;Client;;SIMONIN;;;;;;;;;simoninjean@yahoo.fr;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;La Maison des enfants;;"La Landelles""""";81700;Palleville;05 63 82 10 00;;;;;0;;;;;non;non;10007;Tarif catalogue;Standard;TTC
+07/07/2015;Client;;SCM M R T;;4 bis avenue du General Leclerc;11400;Castelnaudary;;;04 68 23 51 66;;ahacene@hotmail.com;0;;;;;non;non;09090/622;Tarif catalogue;Standard;TTC
+25/04/2017;Client;;LEFOULER;;La GENETTE;3600;HYDS;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;SARL Rouzau;;"""Le Capitoul"""" RN 113""""";;Castelnaudary;04 68 23 04 38;;;;;0;;;;;non;non;9022;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Cuberli;Odile;77, avenue Prosper Estieu;;Fendeille;04 68 23 33 14;;;;;0;;;;;non;non;2008;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Bastouil;Francine;9, chemin Pictalen;11400;Fendeille;04 68 23 42 52;;;;;0;;;;;non;non;2010;Tarif catalogue;Standard;TTC
+18/03/2012;Divers;;Houdeville;Michelle;route de Toulouse;31250;Revel;05 61 17 92 63;06 27 57 68 41;;;;0;;;;;non;non;Entretien espace vert;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Rouzau;Evelyne;"""Le Capitoul"""" RN 113""""";;Castelnaudary;04 68 23 04 38;;;;;0;;;;;non;non;9022;Tarif catalogue;Standard;TTC
+27/07/2010;Client;;Dauvergne;Gwenaelle;5, impasse des Tournesols;11320;Labastide d'Anjou;04 68 94 03 63;;;;;0;;;;;non;non;04025/252;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Bataille;Claude;chez JC Crayol;11400;Labecede;;;;;;0;;;;;non;non;5023;Tarif catalogue;Standard;TTC
+01/09/2009;Client;;De-Vera;M-France;"Le Bisconte""""";31250;Revel;;06 10 19 19 34;;;;0;;;;;non;non;01019/322;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Batigne;Claire;"Co del Roux""""";11400;Castelnaudary;04 68 23 06 60 ;;;;;0;;;;;non;non;9012;Tarif catalogue;Standard;TTC
+27/06/2012;Client;;Delbosc;Laura;9, Impasse des Cypres;11150;Pexiora;;06 18 02 20 83;;;laurapex11@hotmail.fr;0;;;;;non;non;"06047/468 M. Ferriol Michel  Les Escombes"" e Souilhanels""";Tarif catalogue;Standard;TTC
+20/11/2014;Client;;Rouquet;Sandrine;7, rue des Tilleuls;11150;Pexiora;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Guilbert;Lucette;43, rue Paul Valery;11400;Castelnaudary;04 68 23 20 11;;;;;0;;;;;non;non;09036/183;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Baudot;Virginie;13b, route d'Autan;11150;Pexiora;04 68 94 82 55;;;;;0;;;;;non;non;6015;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Diaz;Janine;2b, rue de l'Aspin;;Toulouse;;06 86 13 14 79;;;;0;;;;;non;non;10030;Tarif catalogue;Standard;TTC
+29/05/2009;Client;;Baudot;Virginie;136, route d'Autan;11150;Pexiora;04 68 94 82 55;;;;;0;;;;;non;non;06015/100;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Gourdain;Celine;Le village;11420;Cahuzac;04 68 60 26 83;;;;;0;;;;;non;non;02023/374;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Rouch;Evelyne;11, Le Plo;81540;Durfort;LR;;;;;0;;;;;non;non;"03008/154 Magasin Chris Parker""""";Tarif catalogue;Standard;TTC
+14/06/2011;Client;;Gindeuil;Beatrice;18, rue Alphonse Daudet;11600;Villalier;04 68 71 46 19;;;;bea.carca@hotmail.fr;0;;;;;non;non;10026/380;Tarif catalogue;Standard;TTC
+07/09/2009;Client;;Baysselier;Solange;24, avenue Pierre Riquet;11400;Castelnaudary;04 68 23 03 30;;;;;0;;;;;non;non;09013/132;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Dubois ;Denise;23, avenue Paul Riquet;11400;Castelnaudary;04 68 23 02 65;;;;;0;;;;;non;non;9011;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Roesz;Monique;12, rue de Vendee;;Marckolsheim;03 88 58 67 66;;;;;0;;;;;non;non;10028;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Gazagnes;Nathalie;12, rue du 19 mars 1962;;Soreze;05 63 50 37 85;;;;;0;;;;;non;non;3012;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Rocq;Franck;"""Labrugue""""""""";;81 Cahuzac;05 63 74 19 04;;;;;0;;;;;non;non;3019;Tarif catalogue;Standard;TTC
+14/03/2017;Client;;ENGELHARD;ERIC;;;;;;;;;0;;;;;non;non;;Retrocession;Standard;TTC
+27/05/2015;Client;;Beaufils;Anne;;9500;Mirepoix;05 61 60 34 84;07 86 02 52 53;;;;0;;;;;non;non;10081/619;Tarif catalogue;Standard;TTC
+13/08/2012;Client;;Fred;;;11400;Labecede;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+18/03/2012;Divers;;Becker;Andre;"Le Conquet""""";11310;Saissac;04 68 24 91 23;;;;andrebecker@free.fr;0;;;;;non;non;Peinture-Papier peint-Jointure-Decoration-Revetement de sol;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Espart;Rene;"""Vidal-Bonnet""""  D28""""";;Castelnaudary;04 68 60 41 65;;;;;0;;;;;non;non;9025;Tarif catalogue;Standard;TTC
+03/06/2013;Client;;Rizzo;Nicole;10, rue de la Gare;11250;Couffoulens;04 68 79 82 03;;;;sans;2;;;;;oui;non;"10059/518 Ancienne cliente de Gilbert. Voir au PP raclette balai Magic""""";Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Fraisse;Jacques;6, impasse de l'Avelan;;Villeneuve la Comptal;04 68 23 61 64;;;;;0;;;;;non;non;4027;Tarif catalogue;Standard;TTC
+18/03/2012;Divers;;Rivals;Jean-Paul;;81700;Lempaut;05 61 83 35 99;;05 63 75 44 61;;;0;;;;;non;non;Restauration et copie d'ancien Hottes cheminees Objets decoratifs Cadeaux Gravures;Tarif catalogue;Standard;TTC
+13/11/2014;Client;;Fontes;Audrey;route de Villeneuve;66210;Real;;06 45 55 63 92;;;audrey.fontes11@hotmail.fr;0;Infirmiere;;;;non;non;10075/596;Tarif catalogue;Standard;TTC
+24/11/2009;Client;;Rivals;Jean-Paul;17, rue des Floralies;31250;Revel;05 61 83 35 99;;;;;0;;;;;non;non;01015/140;Tarif catalogue;Standard;TTC
+21/06/2012;Client;;Fabre;Jean-Claude;18, chemin de Coumegreille;11250;St Hilaire;04 68 69 48 46;;;;jean-claude.fabre8@wanadoo.fr;4;;;;;non;non;10043/466;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Belmas;Stephane;"Le Meunet""""";11401;Molleville;06 80 83 61 99;;;;;0;;;;;non;non;4018;Tarif catalogue;Standard;TTC
+11/12/2009;Client;;Medyouni;Nebia;4, rue Edmond Rostand;11400;Castelnaudary;06 15 29 66 37;;;;;0;Entretien locaux;;;;non;non;09017/147;Tarif catalogue;Standard;TTC
+01/04/2012;Prospect;;Belzunces;Evelyne;501, Ancienne 113;11400;St Martin;09 52  00 65 0;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+17/03/2010;Client;;Campagne ;Agnes;11, rue Jacqueline Auriol;31400;Toulouse;04 68 23 21 65;;;;agnes.campagne@hotmail.fr;0;;;;;non;non;09048/237 Bat. H4 apt. 301;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Ringet ;Solange;Chemin de Pompaly;31250;Vaure;05 61 83 56 74;;;;;0;;;;;non;non;01026/391 ;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Maurel;Joelle;6, rue Nicolas Poussin;31250;Revel;05 61 81 12 45;;;;;0;;;;;non;non;1010;Tarif catalogue;Standard;TTC
+18/03/2012;Prospect;;Rieffel;Hubert;54, rue des Potiers;11400;Castelnaudary;04 68 23 45 76;;;;;2;;;;;non;non;;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Cartagena;Sylvette;"18, """"Residence Bombail""""""""";;Villasavary;06 76 23 26 92;;;;;0;;;;;non;non;6038;Tarif catalogue;Standard;TTC
+21/01/2012;Client;;Bernabeu;Franeoise;12, chemin de la Reille;11000;Carcassonne;06 84 45 43 87;;;;;0;;;;;non;non;10033/422;Tarif catalogue;Standard;TTC
+09/08/2010;Client;;Marty;Mireille;"Les Clausous"" Ne 3""";11320;Airoux;04 68 60 03 53;;;;;2;;;;;non;non;07021/307;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Ramilson;Sabine;18, impasse du Roc;;Villeneuve/Comptal;04 68 94 32 85;;;;;0;;;;;non;non;4009;Tarif catalogue;Standard;TTC
+07/08/2009;Client;;Marty;Mireille;"""Les Clausous"""" Ne3""""";11320;Airoux;04 68 60 03 53;;;;;2;;;;;non;non;07021/307;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Raclin;Barbara;"10, lotissement la Bordette""""";31290;Avignonet;06 22 07 38 44;;;;;0;Vente e domicile;;;;non;non;10006;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Martin;Alain;98, chemin Raynal bat. F;31200;Toulouse;06 08 86 84 67;;;;;0;;;;;non;non;10027;Tarif catalogue;Standard;TTC
+14/03/2017;Client;;ROBIN;MARIE;;;;;;;;;0;;;;;non;non;;Retrocession;Standard;TTC
+28/06/2012;Client;;Mars;Vincent;l'Assaladou;9500;Viviez;05 61 69 94 03;;;;vincent.mars@wanadoo.fr;0;;;;;non;non;10055/504;Tarif catalogue;Standard;TTC
+15/09/2009;Client;;Puig;Veronique;37, rue des Tournesols;31170;Tournefeuille;05 61 07 40 36;;;;;0;;;;;non;non;10005/095;Tarif catalogue;Standard;TTC
+18/06/2010;Client;;Cazaban;Christiane;2a, chemin de l'Orme;11150;Villasavary;09 66 93 73 73;;;;;0;;;;;non;non;06023/234;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Puget;Gael;Impasse Emile Senat;;Revel;04 68 23 06 18;;;;;0;;;;;non;non;1017;Tarif catalogue;Standard;TTC
+12/03/2012;Client;;Mairie de Villeneuve;Ecole;Place Carnot;11400;Villeneuve la Comptal;04 68 23 09 11;;;;;0;;;;;non;non;04067/434;Tarif catalogue;Standard;TTC
+07/06/2012;Client;;Preiss-Grunenwald;Quitterie;4, rue de Drulingen;67000;Strasbourg;;06 61 96 39 45;;;quitterie.preiss-g@laposte.net;0;;;;;non;non;10042/464;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Cesco;Claire;"La Micoulade 3""  D302""";11400;Labecede;;06 66 91 91 77;;;;0;;;;;non;non;5009;Tarif catalogue;Standard;TTC
+08/12/2011;Client;;Portal;Fabrice;6, impasse du Beal;11170;Raissac/Lampy;04 68 76 05 84;;;;fabrice.portal961@orange.fr;0;;;;;non;non;10032/419;Tarif catalogue;Standard;TTC
+03/03/2012;Client;;Mailho;Sylvaine;134  allee des sycomores;11400;Castelnaudary;;06 29 86 30 05;;;;0;;;;;non;non;09061/429;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Poilpot;Christopher;3, Gd Rue;;Soupex;04 68 60 09 79 ;;;;;0;;;;;non;non;7010;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Lucaroni;Stephen;13, avenue des Pyrenees;11400;Castelnaudary;;06 15 71 25 60;;;;0;;;;;non;non;9009;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Poggioli;Pascale;15, rue Charles Peguy;11400;Castelnaudary;06 28 01 07 93;;;;;0;;;;;non;non;9047;Tarif catalogue;Standard;TTC
+04/11/2015;Client;;Lirola;Letitia;29, chemin Vieux;11400;Villeneuve la Comptal;;06 60 58 71 31;;;;4;Forains;;;;non;non;04093/634;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Pizel;Michele;1, lot. De la Montagne Noir;;St Papoul;06 87 59 33 96;;;;;0;;;;;non;non;8041;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Lescure;M-Josee;150, ch. Gargas 31370 ;;Rieumes;04 61 91 06 42;;;;;0;;;;;non;non;10018;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Pinloche;Monique;4, rue Joseph Salvat;11400;Castelnaudary;04 68 23 31 27;;;;;0;;;;;non;non;9023;Tarif catalogue;Standard;TTC
+21/10/2009;Client;;Chrys Parker;;11, Le Plo;81540;Durfort;05 63 74 19 52;;;;;0;;;;;non;non;03008/154;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Pinel;Ascension;Le village;31250;Vaudreuille;;;;;;0;;;;;non;non;5008;Tarif catalogue;Standard;TTC
+30/07/2015;Client;;Clabaut;Jean-Claude;60, Impasse des Hortensias;11400;Castelnaudary;;06 35 97 08 31;;;;1;;;;;non;non;09092/631;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Piegelin;Claudie;32b chemin des Caussigneres;;Revel;06 17 10 53 27;;;;;0;;;;;non;non;1011;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Lemarie;M-Claude;"""Le Merle""""""""";;Semalens;05 63 82 08 85;;;;;0;;;;;non;non;10004;Tarif catalogue;Standard;TTC
+16/12/2015;Client;;Peyre;Danielle;1, route des Crozes;11400;Issel;04 68 60 49 11;;;;;0;;;;;non;non;05063/637;Tarif catalogue;Standard;TTC
+14/01/2012;Client;;Lefort;Nadine;30, rue des Batailleries;11400;Castelnaudary;04 68 23 04 26;;;;;0;Infirmiere;;;;non;non;09059/421;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Boned;Mariano;27, Rue du Cdt Croux;81540;Soreze;05 63 74 12 63;;;;;0;;;;;non;non;3011;Tarif catalogue;Standard;TTC
+02/09/2011;Client;;Le Corre;J-Luc;4, chemin de l'Avocat;11320;Labastide d'Anjou;;06 65 33 34 68;;;;2;Retraites;;;;non;non;04065/417;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Bonhoure;Berthe;Le village;31250;Vaudreuille;05 61 27 60 06;;;;;0;;;;;non;non;5006;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Lazaar;Hafida;"14, residence la Cressoniere""""";11150;Pexiora;;06 78 87 90 35;;;;0;;;;;non;non;6008;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Peyre;Evelyne;"Tureluro""""";11400;St Papoul;04 68 94 83 87;;;;;0;;;;;non;non;08050/354;Tarif catalogue;Standard;TTC
+30/07/2015;Client;;Laurence;;Impasse des Hortensias;11400;Castelnaudary;???;;;;;0;;;;;non;non;9;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Bonnery;Colette;"Le Bourdic""""";;Fendeille;04 68 23 24 90;;;;;0;;;;;non;non;2004;Tarif catalogue;Standard;TTC
+03/06/2014;Client;;Lasseres;Claudine;6, chemin du Pigeonnier;11400;Labecede Lauragais;04 68 94 79 88;;;;claudinelasseres@hotmail.com;0;;;;;non;non;5;Tarif catalogue;Standard;TTC
+25/06/2014;Client;;Bonnery;Gilbert;"Les Peyrous""""";11150;Villasavary;04 68 24 72 46;;;;;0;;;;;non;non;06056/598;Tarif catalogue;Standard;TTC
+18/03/2012;Client;;Lamarque;Florence;;11400;Castelnaudary;04 68 60 24 19;;;;;0;;;;;non;non;Masseur-Kinnesitherapeute  D. E.;Tarif catalogue;Standard;TTC
+07/11/2012;Client;;Petitprez;Julie;11, avenue du Gal Leclerc;54600;Villers les Nancy;06 50 19 22 35;;;;julie.petitprez@fr.nestle.com;0;;;;;non;non;10049/487 Soeur de Mme Pattier;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Lamagnere;Claude;Chemin d'En Blanc;11400;Issel;04 68 60 02 64;;;;;0;;;;;non;non;5018;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Petit ;Yveline;Chemin de la Montagne;;La Pomarede;04 68 60 43 93;;;;;0;;;;;non;non;7008;Tarif catalogue;Standard;TTC
+20/05/2009;Client;;Corroir;Veronique;En Grenier;11400;Treville;04 68 60 48 61;;;;;0;;;;;non;non;07005/009;Tarif catalogue;Standard;TTC
+25/05/2009;Client;;Borrel;Sylvie;30, Avenue de Toulouse;31250;Revel;05 61 83 41 99;06 88 89 40 60;;;;4;Dentiste;;;;oui;non;01001/031;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Lacroux;Christine;"Mont Plaisir"" rte des Crozes""""";11400;Issel;04  68 23 49 07;;;;;0;;;;;non;non;5017;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Perois;Paule;4, rue des Qatre vents;11320;Labastide;04 68 23 03 45;;;;;0;;;;;non;non;10009/153;Tarif catalogue;Standard;TTC
+08/10/2013;Client;;Coste;Janine;14, rue des Chataigners;11000;Carcassonne;04 68 47 14 19;;;;;0;;;;;non;non;10;Tarif catalogue;Standard;TTC
+27/07/2010;Client;;Perez;Emile;10, impasse des Tournesols;11320;Labastide d'Anjou;04 68 94 09 58;;;;;2;;;;;non;non;04041/304;Tarif catalogue;Standard;TTC
+03/11/2015;Client;;Courteix;Sylvie;15, rue Jean Micoud;31500;Toulouse;;06 19 42 12 43;;;syl.courteix@orange.fr;0;;;;;non;non;10085/633;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Pelofy;Janine;20, im. des Arbousiers;;Argeles/Mer;06 31 02 51 82;;;;;0;;;;;non;non;10025;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Khalil;Begonia;268, allee des Chataigners;;Castelnaudary;04 68 94 12 02;;;;;0;;;;;non;non;9032;Tarif catalogue;Standard;TTC
+12/08/2009;Client;;Bouilleux;Marie;5, rue Clement Ader;11400;Castelnaudary;04 68 60 27 49;;;;marie6carmen.bouilleux@laposte.net;0;;;;;non;non;09010/081 gaubert;Tarif catalogue;Standard;TTC
+17/08/2010;Client;;Jegat;Karine;"2, La Borie Blanche""""";81540;Soreze;;06 25 74 65 09;;;;0;;;;;non;non;03033/409;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Pelissier;Franeoise;Chemin Vert;;Revel;05 62 18 04 35 ;;;;;0;;;;;non;non;1012;Tarif catalogue;Standard;TTC
+18/12/2013;Client;;Jalbaud;Louise;16, avenue Salvadore Alliende;31140;St Alban;05 61 70 53 43;;;;;0;;;;;non;non;10068/555;Tarif catalogue;Standard;TTC
+04/06/2010;Client;;Bourdil;Andree;"Fonlade""  D516""";11400;Mireval;04 68 23 16 75;;;;;1;;;;;non;non;02003/200;Tarif catalogue;Standard;TTC
+18/03/2012;Divers;;Hutt;Pascal;;11400;Castelnaudary;09 77 76 55 09;06 24 57 81 64;;;hpis11.fr;0;;;;;non;non;Assistance-Formation-Reseaux-Securite informatique-Internet;Tarif catalogue;Standard;TTC
+16/04/2010;Client;;Paraire;Veronique;121, allee des Tilleuls;11400;Castelnaudary;04 68 23 44 57;;;;jean_jacques.paraire@club-internet.fr;5;;;;;non;non;09045/208  ;Tarif catalogue;Standard;TTC
+23/11/2010;Client;;Darbot;Monique;6, rue Theophile Barrau;11400;Castelnaudary;04 68 23 06 72;;;;;1;;;;;non;non;09050/296;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Bourgeau;Lucette;5, rue Andre Malraux;;Castelnaudary;04 68 94 00 65;;;;;0;;;;;non;non;9026;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Hodent;Jacques;"""La Dominique""""""""";;Villespy;04 68 94 21 89;;;;;0;;;;;non;non;8013;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Bourniquel;M-Ange;766, route de Lasbordes;11400;St Martin Lalande;;06 29 99 79 24;;;;0;;;;;non;non;8038;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;De Donder;Leen;"Las Brugues"" 90, rte de Lasbordes""";11400;St Papoul;04 68 23 43 11;;;;;0;;;;;non;non;8006;Tarif catalogue;Standard;TTC
+26/04/2017;Client;;PEYNET;Monique;;;;473855334;;;;;4;Retraites;;;;non;non;;Tarif catalogue;Standard;TTC
+23/02/2010;Client;;Hernandez;Erika;"La Bordette""""";11400;St Martin Lalande;04 68 60 48 19;;;;;0;;;;;non;non;08035/195;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Ormiere;Ginette;"""Massac""""""""";;Pexiora;04 68 94 96 50;;;;;0;;;;;non;non;6012;Tarif catalogue;Standard;TTC
+01/04/2012;Client;;Hernandez;Erika;"La Bordette""""";11400;St Martin Lalande;04 68 60 48 19;;;;;0;;;;;non;non;8035;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Boushaba; Kaddour;6, chemin de la Valbasse;;Villeneuve;;;;;;0;;;;;non;non;4002;Tarif catalogue;Standard;TTC
+26/09/2013;Client;;Hacene;Anissa;62, rue d'Alsace;11000;Carcassonne;;;;;ahacene@hotmail.com;0;;;;;non;non;10062/540;Tarif catalogue;Standard;TTC
+18/03/2012;Divers;;Olivier;;;;;;06 23 85 51 97;;;sg31@gmx.fr;0;;;;;non;non;Coutellerie artisanale;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Guillemain;Franeoise;51, avenue de Vaudreuille;;Revel;05 61 27 60 63;;;;;0;;;;;non;non;1006;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Nicolas;Veronique;En Pouchou;;Laurabuc;04 68 23 64 93;;;;;0;;;;;non;non;2002;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Delrieu;Guy;"En Bonis""""";11320;Montferrand;04 68 60 18 19;;;;;0;;;;;non;non;7014;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Brail;Jacques;31, av. Antoine Courrriere;;Alzonne;04 68 76 00 11;;;;;0;;;;;non;non;10023;Tarif catalogue;Standard;TTC
+16/10/2009;Client;;Gregoire;Danielle;"En Duret""""";11400;Labecede;04 68 60 39 44;;;;;0;;;;;non;non;05043/137;Tarif catalogue;Standard;TTC
+30/09/2015;Client;;Brard;Eric;3, rue Henry Ajac;11150;Pexiora;;06 11 04 90 88;;;;2;;;;;non;non;06059/629;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Desaix;Josiane;"Les mouilleres""""";11400;La Pomarede;09 64 02 72 46;;;;;0;;;;;non;non;07003/011;Tarif catalogue;Standard;TTC
+18/03/2012;Divers;;Bricolo;Denis;"Les 4 Vents""""";11310;Villemagne;04 68 23 48 10;07 86 18 64 21;;;;0;;;;;non;non;Travaux d'interieur : plomberie, sanitaire, peinture, lambris, parquets, plancher, autres travaux sur etude.  Travail soigne garanti;Tarif catalogue;Standard;TTC
+24/08/2010;Client;;Groussin;Patrice;9, rue du 19 mars 1962;81540;Soreze;;06 07 80 09 09;;;;0;;;;;non;non;03022/309;Tarif catalogue;Standard;TTC
+25/06/2012;Client;;Nadeau;Monique;"3 bis rue de la Glaciere
+La Gaconniere""""";17480;Le Chateau d'Oleron;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+29/08/2011;Client;;Gril;Jean;11, chemin des Metairies;11400;Villeneuve/Comptal;04 68 23 34 52;;;;;1;Agriculteur;;;;non;non;04057/395;Tarif catalogue;Standard;TTC
+02/05/2009;Client;;Mula;M-Sophie;rue de la Montagne;31250;Vaudreuille;;06 81 22 29 20;;;;3;;;;;non;non;05014/049;Tarif catalogue;Standard;TTC
+05/10/2013;Client;;Gonzalez;Jackie;"Las Costes d'en David""""";66560;Ortaffa;;06 80 30 73 73;;;;0;;;;;non;non;10063/542;Tarif catalogue;Standard;TTC
+28/06/2010;Client;;Brouillard;Claude;"L'Espagnette""""";11270;Laurac;04 68 24 76 77;;;;;0;;;;;non;non;02006/217;Tarif catalogue;Standard;TTC
+12/02/2010;Client;;Girard;Genevieve;43, rt de Carcassonne;31290;Villefranche;05 61 81 34 87;;;;;1;;;;;non;non;10010/157;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Moure;Josiane;"Domaine """"L'Escabasse""""""""";;Lasbordes;06 31 10 73 83;;;;;0;;;;;non;non;8017;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Douce;Angeline;"""La Plaigne""""""""";;St Martin le vieil;04 68 67 00 92;;;;;0;;;;;non;non;8009;Tarif catalogue;Standard;TTC
+02/09/2009;Client;;Moquet;Mireille;7, imp des Rives de la Rigole;31250;Revel;05 61 27 98 56;;;;;0;;;;;non;non;01005/105;Tarif catalogue;Standard;TTC
+11/03/2014;Client;;Dressayre;Laurie;304, route de Durefort;81540;Soreze;;;;;;0;;;;;non;non;Voir Chaix Gabriel;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Montagnon;Celine;Chemin d'Armani;;Issel;04 68 94 09 57;;;;;0;;;;;non;non;5025;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Dubuisson;Colette;4, rue Auguste Renoir;;Revel;05 62 18 30 61;;;;;0;;;;;non;non;1014;Tarif catalogue;Standard;TTC
+30/07/2009;Client;;Molinier;Christine;"La Franeaise""""";11400;St Papoul;04 68 94 84 73;;;;;0;;;;;non;non;08018/83;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Ghisi;Pierette;4, rue d'Autan;11150;Pexiora;04 68 94 95 91;;;;;0;;;;;non;non;6011;Tarif catalogue;Standard;TTC
+26/03/2012;Divers;;Mirailles;Marie;;;;;06 36 66 78 08;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Dumenil;Christelle;316, avenue des Pyrenees;;St Martin Lalande;06 16 72 40 91;;;;;0;;;;;non;non;8038;Tarif catalogue;Standard;TTC
+18/03/2012;Divers;;Mirailles;Marie;14, rue du Pi c de Nore;11600;Villegly;04 68 10 48 05;06 36 66 78 08;;;biot-zen@orange.fr;3;;;;;oui;non;Massages holistiques-Reflexologie-Shiatsu-Amma;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Gassiolle;Marielle;"""Lapouticario""""""""";;Soreze;05 63 74 22 52;;;;;0;;;;;non;non;3006;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Brustier;Claudine;"""Les Marquies"""" 11270""""";;Orsans;04 68 24 74 82;;;;;0;;;;;non;non;10022;Tarif catalogue;Standard;TTC
+06/11/2009;Client;;Gacquiere;Lina;"Domaine de Villemagne""""";11400;Labecede;04 68 60 44 89;;;;;0;;;;;non;non;05042/131;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Buil;Daniele;"""En Soulie""""""""";;Issel;04 68 60 44 73;;;;;0;;;;;non;non;5022;Tarif catalogue;Standard;TTC
+02/02/2011;Client;;Eddalia;Nelly;10, rue Michel de Montaigne;11400;Castelnaudary;04 68 60 20 91;;;;;0;;;;;non;non;09053/327;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Midinet31;;2, rue Clausade 31200 Tlse;;Toulouse;06 50 72 15 30;;;;;0;;;;;non;non;100020;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Emond;Stephanie;251, allee des Chataigners;;Castelnaudary;04 68 60 17 09;;;;;0;;;;;non;non;9040;Tarif catalogue;Standard;TTC
+23/09/2009;Client;;Micallef;Valerie;"Les Ouls""""";81540;Soreze;05 63 37 28 78;;;;;0;;;;;non;non;03001/099;Tarif catalogue;Standard;TTC
+18/03/2011;Client;;Escafre;Elisabeth;16, allee Cassieu;11400;Castelnaudary;04 68 23 53 63;;;;;0;;;;;non;non;09056/361;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Bedin;Audrey;1, rue de la Cete Vieille;11400;Mireval Lgais;;06 12 18 81 24;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+30/01/2012;Client;;Esquirol;Josiane;3, lotissement Mouries;11400;Villeneuve la Comptal;;06 83 41 91 60;;;;0;Entretien locaux;;;;non;non;Recontre e l'ecole de Villeneuve;Tarif catalogue;Standard;TTC
+29/04/2015;Client;;CEoronimas;Eliane;5, avenue de Carcassonne;;Alzonne;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Franc;Martine;"Les Touzeilles""""";11320;Montferrand;04 68 60 19 79;;;;;0;;;;;non;non;7020;Tarif catalogue;Standard;TTC
+01/05/2017;Client;;CHRIST;Patricia;636 Rue Albert CAMUS;11310;SAISSAC;;;;;;2;;;;;non;oui;;Tarif catalogue;Standard;TTC
+20/03/2012;Prospect;;Esteve;Nicole;14, rue des Oliviers;11400;Peyrens;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;CK Concept;;2, rue Clausade 31200 Tlse;;Toulouse;06 47 45 19 35;;;;;0;;;;;non;non;10019;Tarif catalogue;Standard;TTC
+04/08/2015;Client;;Eurl Malabrade;;"Malabrade""""";81540;Cahuzac;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Mezieres;Valerie;"""En Vuries""""""""";;Montferrand;04 68 60 11 27;;;;;0;;;;;non;non;7014;Tarif catalogue;Standard;TTC
+10/12/2013;Client;;Fontes;Marie-Christine;751, route de Pexiora;11400;Castelnaudary;04 68 23 20 65;06 20 14 39 87;;;fontes.mc@live.fr;0;;;;;non;non;09086/581 ;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Meyssonnie;Yolande;7, avenue de l'Oree de Vaure;;Revel;05 61 81 19 57;;;;;0;;;;;non;non;1018;Tarif catalogue;Standard;TTC
+19/10/2009;Client;;Fabre;Eliette;6, rue des Noisetiers;81540;Durfort;05 63 74 15 43;;;;;0;;;;;non;non;05035/118;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Calmettes;Alain;386,  rue des 13 vents;11400;St Martin ;04 68 60 29 17;;;;;0;;;;;non;non;08030/165 demenage e Castelnaudary;Tarif catalogue;Standard;TTC
+31/07/2014;Prospect;;Fabre;Marlene;13, l'Albarel;31250;Vaure;;;;;;0;Retraites;;;;non;non;1;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Meyer ;Danielle;En venant dans le village;11400;La Pomarede;04 68 60 49 92;;;;;0;;;;;non;non;5026;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Meschberger;Marguerite;;;Dieffenbach/Val;06 88 57 62 33;;;;;0;;;;;non;non;10003;Tarif catalogue;Standard;TTC
+25/06/2012;Client;;Inconnue;Monique;Oleron;;;;;;;;0;;;;;non;non;10044/467;Tarif catalogue;Standard;TTC
+31/03/2012;Prospect;;Ferrage;Marie-Ange;"Domaine Picard""""";11150;Villasavary;;06 48 63 20 30;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+23/02/2010;Client;;Pelissier;M-Agnes;275, Ancienne 113;11400;St Martin ;04 68 94 97 47;;;;;0;;;;;non;non;08036/207;Tarif catalogue;Standard;TTC
+10/06/2009;Client;;Marboeuf;Carole;22, Boulevard Gambetta;11150;Villepinte;06 15 33 12 63;;;;;0;;;;;non;non;08021/090;Tarif catalogue;Standard;TTC
+02/04/2011;Client;;Garrigues;Sandrine;84, rue du Barry;11150;Villasavary;;06 80 27 69 40;;;;0;;;;;non;non;06035/348;Tarif catalogue;Standard;TTC
+02/02/2011;Prospect;;Aden;Albert;"Le Trillou""  D 128""";11320;Labastide d'Anjou;;;;;;2;;;;;non;non;;Tarif catalogue;Standard;TTC
+18/06/2010;Client;;Claveria;Monique;3, rue Jules Barrie;11150;Villasavary;04 68 24 70 93;;;;;0;;;;;non;non;06025/236;Tarif catalogue;Standard;TTC
+30/05/2009;Prospect;;Pailhes;Jaqueline;chemin des Fontanilles;11270;Fanjeaux;04 68 24 60 92;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+08/12/2010;Prospect;;Caussinus;Marie;29, rue du Barrieu;11320;Labastide d'Anjou;04 68 60 16 97;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+05/04/2012;Prospect;;Jeanne;Mickael;3, rue des Bleuets;11320;Labastide d'Anjou;;06 03 73 05 61;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+03/06/2009;Prospect;;Berieu;Rene;6, chemin de Rouquignolle;11400;Lasbordes;04 68 94 82 98;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+23/09/2011;Client;;Weiland;Lydie;12, rue Barry;11150;Villasavary;;;;;;0;;;;;non;non;06042/401;Tarif catalogue;Standard;TTC
+23/11/2011;Client;;Ennals;Mc Kerrow;"Barrie""""";11400;Mas Stes Puelles;04 68 94 00 29;;;;;0;;;;;non;non;04062/414;Tarif catalogue;Standard;TTC
+06/07/2011;Client;;Hocquerelle;Dominique;"Le Roc""""";11270;Generville;04 68 60 52 42;;;;;0;;;;;non;non;02025/398;Tarif catalogue;Standard;TTC
+27/04/2011;Client;;Julia;Dany;"Les Marquies"" """;11270;Orsans;04 68 76 60 47;;;;;0;;;;;non;non;10021/351;Tarif catalogue;Standard;TTC
+17/12/2010;Client;;Martinel;Myriam;"Co d'Arcis""""";11400;Verdun/Lauragais;04 68 94 31 04;;;;;0;;;;;non;non;05048/310 M. Cannalis;Tarif catalogue;Standard;TTC
+31/03/2012;Prospect;;Brignol;Chantal;"St Jean de Raspail""   D 218""";11150;Villasavary;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+31/03/2012;Prospect;;Camate;Maryse;10, rue de la Grave;11150;Villasavary;09 50 28 71 14;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+31/03/2012;Prospect;;Ferrasse;Sabine;24, rue de la Grave;11150;Villasavary;04 68 78 97 18;06 21 31 89 14;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+23/03/2011;Client;;Garcia;M-Claire;"Pech-Bruguet""""";11400;Labecede;;06 61 79 54 94;;;;0;;;;;non;non;05051/356;Tarif catalogue;Standard;TTC
+07/07/2010;Client;;Negrail;Alain;"La Gare""""";11400;Mas Stes Puelles;04 68 94 09 13;;;;;0;;;;;non;non;04030/260;Tarif catalogue;Standard;TTC
+10/08/2009;Client;;Brunel ;Sylvie;9, Rue du Presbythere;11400;Labecede;04 68 60 49 28;;;;;0;;;;;non;non;05032/106;Tarif catalogue;Standard;TTC
+09/09/2009;Client;;Quemerais;Babe;"La Ramade""""";11400;Labecede;04 68 94 13 26;;;;;0;;;;;non;non;05039/126;Tarif catalogue;Standard;TTC
+17/08/2009;Client;;Mairie;Labecede;;11400;Labecede;04 68 60 41 03;;;;;0;;;;;non;non;05029/091;Tarif catalogue;Standard;TTC
+12/08/2010;Client;;Cossard;M-Louise;"Les Marcouls""""";11400;Ricaud;04 68 03 02 03;;;;;1;;;;;non;non;04048/332;Tarif catalogue;Standard;TTC
+09/08/2010;Client;;Maillebiau;Jean;"""Le Moulin""""""""";;Ricaud;04 68 60 03 23;;;;;2;;;;;non;non;04052/379;Tarif catalogue;Standard;TTC
+22/04/2011;Client;;Bourniquel;Jacques;9, rue Jean Antoine Clos;81540;Soreze;05 61 83 51 81;;;;;0;;;;;non;non;03029/368;Tarif catalogue;Standard;TTC
+22/04/2010;Client;;Rastouil;Joelle;32, chemin d'Entouzet;11400;Villeneuve/Comptal;04 30 35 60 85;;;;;0;;;;;non;non;04012/210;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Harnay;Jannine;9, chemin de Mouries;11400;Villeneuve/Comptal;;06 83 40 52 02;;;;0;;;;;non;non;04007/197;Tarif catalogue;Standard;TTC
+02/05/2011;Client;;Bach;Corinne;"Les 4 Vents""""";11310;Villemagne;04 68 23 48 10;;;;denis.basset11@orange.fr;2;;;;;non;non;05050/355 Basset Denis;Tarif catalogue;Standard;TTC
+05/08/2009;Client;;Bossuot;Isabelle;"Co des Mages""""";11400;Verdun;;06 19 06 00 27;;;isabelle.bossuot@orange.fr;0;;;;;non;non;05033/110;Tarif catalogue;Standard;TTC
+26/01/2011;Client;;Rouanet ;Evelyne;"La Planque""""";81540;Cahuzac;06 88 89 66 96;;;;;0;;;;;non;non;"03031/371 situe apres En Gros"" e cete de l'atelier de menuiserie de son fils""";Tarif catalogue;Standard;TTC
+08/04/2011;Client;;Montagne;Sandrine;Rte de Belleserre;81540;Cahuzac;;06 85 23 24 17;;;;0;;;;;non;non;03025/340;Tarif catalogue;Standard;TTC
+14/09/2009;Client;;Vimont;Angelique;D302;11400;Labecede;04 68 23 53 40;;;;;0;;;;;non;non;05034/116;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Taylor;Christopher;"En Coustet""""";11400;Issel;04 68 94 97 30;;;;;0;;;;;non;non;05011/043 Ni le mercredi e cause des enfants ni le lundi matin jour de marche;Tarif catalogue;Standard;TTC
+10/08/2010;Prospect;;Huertas;Marie-Pierre;4, rue Lavande;11400;Ricaud;04 68 60 09 86;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+30/06/2011;Prospect;;Brunel;Sabrina;"Co des Mages""""";11400;Verdun;;06 30 34 68 25;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+09/08/2010;Prospect;;Gaiarin;Carmen;"Remise""""";11400;Ricaud;04 68 60 02 49;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+07/04/2012;Prospect;;Melet;Leonce;9, chemin Petit pas;11400;Villeneuve la Comptal;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+01/07/2011;Prospect;;Bessiere;;"La Vergniere""""";11400;Verdun;04 68 60 27 14;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+08/07/2009;Client;;Caubet;Valerie;17, lotissement de Treville;11400;Peyrens;04 68 60 40 32;;;;;0;;;;;non;non;08015/073;Tarif catalogue;Standard;TTC
+07/07/2011;Prospect;;Gaiani;Magali;8, impasse du Cers;11320;Labastide d'Anjou;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+09/06/2011;Client;;Rampnoux;Nancy;1, rue du Moulin;11400;Mireval Lgais;04 68 78 89 79;06 18 87 57 78;;;nancy.rampnoux@laposte.net;3;Fleuriste;;;;non;non;02005/205;Tarif catalogue;Standard;TTC
+01/07/2011;Prospect;;Teisseyre;Bernard;"Les Faures""""";81540;Les Cammazes;05 63 74 21 72;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+18/04/2012;Prospect;;Anquetin;Jael;"La Borie Blanche""""";81540;Soreze;;06 22 44 42 41;;;;0;;;;;non;non;A cete de Mme Beteille;Tarif catalogue;Standard;TTC
+18/04/2012;Prospect;;Clisson;Anita;13, chemin de Peyrens;81540;Soreze;05 63 73 44 36;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+01/09/2010;Prospect;;Ploy;Mireille;"Labrugue""""";81540;Cahuzac;;06 20 76 94 64;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+18/03/2012;Prospect;;Fourcade;Michel;"Jean-Raymond""""";11400;Verdun;;06 14 48 92 45;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+16/04/2012;Prospect;;Viven;Christiane;chemin des Bagarres;11400;Fendeeille;04 68 94 17 08;;;;neant;0;;;;;non;non;16/4 remis ce jour 1X 061 + 1 catalogue + 1 eponge lavette. la creme e ete regle en espece par M. Julia;Tarif catalogue;Standard;TTC
+18/04/2012;Prospect;;Brugeille;Michele;6, chemin d'Amaury;11400;Issel;04 68 23 32 01;;;;;2;Retraites;;;;non;non;;Tarif catalogue;Standard;TTC
+16/04/2012;Prospect;;Fontaine;Benedicte;chemin des Gabarres;11400;Fendeille;06 87 78 09 35;;;;;0;;;;;non;non;16/3 remis ce jour une eponge lavatte + un catalogue + 1x 061 qui e ete regle par M. Julia;Tarif catalogue;Standard;TTC
+23/03/2012;Client;;Nuti;Paulette;13B route de St Papoul;11400;Issel;04 68 60 08 57;;;;;2;Retraites;;;;non;non;05056/441;Tarif catalogue;Standard;TTC
+06/07/2009;Client;;Reverdy;Marie-Therese;"Les Monges""""";11400;Castelnaudary;04 68 23 20 96;;;;;0;;;;;non;non;09008/068;Tarif catalogue;Standard;TTC
+20/03/2012;Prospect;;Marchand;Stephanie;14, rue du Sor;81540;Soreze;;06 32 27 01 99;;;;0;;;;;non;non;Taliban du savon noir;Tarif catalogue;Standard;TTC
+18/04/2012;Prospect;;Fleury;Gaetan;"12, lotissement Le Bouscatel""""";81540;Soreze;05 67 46 86 78;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+18/04/2012;Prospect;;Ometto;Amandine;3, La Boris Blanche;81540;Soreze;06 13 32 95 56;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+20/10/2011;Client;;Laffont;Evelyne;"Bertegail11270""""";11270;St  Amans;04 68 60 50 17;;;;;0;;;;;non;non;02024/383;Tarif catalogue;Standard;TTC
+28/03/2012;Client;;Vignes;Marianne;Lariscat;11270;Generville;;687730886;;;marie.fanou@free.FR;3;;;;;non;non;;Tarif catalogue;Standard;TTC
+20/03/2012;Prospect;;Da Silva;Ingrid;19, route de Treville;11400;Peyrens;;06 50 56 16 64;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+25/03/2011;Client;;Lloret;Jane Margaret;Monastere de Prouihle;11270;Fanjeaux;?;;;;;0;;;;;non;non;06033/328;Tarif catalogue;Standard;TTC
+01/04/2012;Client;;Vidal;Paquerette;"Le Camazou""""";11270;Fanjeaux;;;;;nicolevidal81@sfr.fr;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+22/09/2011;Client;;Mascaro;Nadine;3, rue des Amandiers;11150;Pexiora;04 68 60 30 05;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+22/09/2011;Prospect;;Cantille;Franeoise;"e cete de Garrie""""";11400;Lasbordes;;06 40 42 68 69;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+03/06/2009;Client;;Turies;Eliane;6,rue de la Montagne Noir;11400;Lasbordes;04 68 94 96 25;;;;;1;;;;;non;non;08001/008;Tarif catalogue;Standard;TTC
+01/04/2012;Prospect;;Aparicio;Helene;5, rue des Alenes;11400;Lasbordes;04 68 94 97 61;;;;;0;;;;;non;non;relance 30/4 avec 1 Futur+1griff.;Tarif catalogue;Standard;TTC
+22/06/2010;Client;;Beyer;Eugenie;"Co de Py""   D371""";11150;Villasavary;;06 83 25 30 40;;;;0;Femme au foyer;;;;non;non;06027/263;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Garcia;Stephanie;60, rte de Lasbordes;;Pexiora;04 68 23 53 75;;;;;0;;;;;non;non;6004;Tarif catalogue;Standard;TTC
+28/04/2012;Prospect;;Franzoni;Pascale;15, allee des Sycomores;11400;Castelnaudary;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+18/06/2010;Client;;Ruckemann;Monika;13, rue Trivalle;11150;Villasavary;09 61 02 42 98;06 48 49 09 26;;;ruckemannmonika@orange.fr;3;;;;;non;non;06022/233;Tarif catalogue;Standard;TTC
+02/06/2009;Client;;Kobylinska;Adona;6, rue des Amandiers;11150;Pexiora;;06 30 58 35 76;;;;0;;;;;non;non;06002/020;Tarif catalogue;Standard;TTC
+22/03/2011;Prospect;;Durot;Angelique;"Domaine de la Griffe""""";11400;St Martin;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+18/06/2010;Client;;Cazaban;Christiane;2a, chemin de l'Orme;11150;Villasavary;09 75 50 76 29;;;;;0;;;;;non;non;06023/234;Tarif catalogue;Standard;TTC
+30/09/2011;Prospect;;Alibert;Nadine;"Plaine de Balaquier""""";31290;Lagarde;05 34 66 18 21;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+26/01/2011;Client;;Rey;Carole;"En Gros""""";81540;Cahuzac;05 63 73 22 93;;;;;0;;;;;non;non;03028/359;Tarif catalogue;Standard;TTC
+24/03/2011;Prospect;;Simpson;Edmond;"Domaine les Teysseires""""";11270;Fanjeaux;04 68 79 37 66;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+23/07/2010;Client;;Danjard;Christelle;3, avenue de la Montagne Noir;11150;Villasavary;04 68 78 98 39;;;;;0;;;;;non;non;06026/249;Tarif catalogue;Standard;TTC
+01/04/2012;Prospect;;Olivier;Colette;;11170;Carlipa;04 68 94 23 13;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+31/08/2011;Prospect;;Alibeu;Marie-Line;15, impasse des Tournesols;11320;Labastide d'Anjou;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+03/08/2010;Client;;Gauthier;Jacqueline;"La Rivairolle""""";11320;Montmaur;04 68 60 05 73;;;;;0;;;;;non;non;07019/286;Tarif catalogue;Standard;TTC
+03/06/2009;Prospect;;Rigaud;Etienne;1, lotissement St Laurent;11400;Lasbordes;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+26/07/2010;Client;;Lavois;Marie-Lourde;3, chemin de Barrel;11320;Labastide d'Anjou;04 68 23 50 34;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+23/06/2010;Prospect;;Fournier;Charline;2a, chemin de la Barthe;11150;Villasavary;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+02/05/2012;Prospect;;Carriere;Florence;"1, Residence La Cressoniere""""";11150;Pexiora;09 67 1490 97;;;;;0;;;;;non;non;6;Tarif catalogue;Standard;TTC
+26/07/2010;Prospect;;Barrau;Jean;"Barrer""""";11320;Labastide d'Anjou;04 68 60 10 95;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+07/07/2011;Prospect;;Bergnes;Valerie;6, impasse de la Plaine;11320;Labastide d'Anjou;04 68 23 59 90;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+10/05/2011;Client;;Vizzotto;Vanessa;2, rue de la Bourdette;11400;St Papoul;04 68 23 41 94;;;;;0;;;;;non;non;08051/360;Tarif catalogue;Standard;TTC
+27/07/2010;Prospect;;Conte;David;9, rue Pastel ;11320;Labastide d'Anjou;09 50 68 95 95;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+24/07/2009;Client;;Regragui;Leila;rue du Gal d'Hautpoul;11400;St Papoul;04 6894 91 22;;;;;0;;;;;non;non;08019/084;Tarif catalogue;Standard;TTC
+23/03/2010;Client;;Denis;Claudine;3, place du Reservoir;11150;Pexiora;04 68 94 86 62;;;;;0;Tenanciere de restaurant;;;;non;non;06016/173;Tarif catalogue;Standard;TTC
+05/04/2012;Prospect;;Barthes;Christiane;"Lavail""""";11320;Labastide d'Anjou;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+05/04/2012;Prospect;;Bezias;Andree;2, rue des Cedres;11410;Baraigne;04 68 60 13 40;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+06/04/2012;Prospect;;Besse;Sylvie;"La Guanguise""  D45""";11400;Mas Stes Puelles;04 68 23 52 44;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+27/01/2010;Prospect;;Brunel;Madeleine;"La Doumergue""""";11400;Mas Stes Puelles;04 68 60 42 73;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+23/02/2010;Client;;Herrnandez;Erika;"La Bordette""""";11400;St Martin Lalande;04 68 60 48 19;;;;;0;;;;;non;non;08035/195;Tarif catalogue;Standard;TTC
+27/10/2011;Prospect;;Barthes;Marie;"Kyries""""";11400;Mas Stes Puelles;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+02/05/2012;Prospect;;Embid;Celine;182, chemin de la Peyruque;11400;St Martin;04 68 94 87 43;06 87 01 39 84;;;;0;;;;;non;non;6;Tarif catalogue;Standard;TTC
+06/04/2012;Prospect;;Bidault;Sandra;11, rue de l'Autan;11400;Mas Stes Puelles;;06 16 86 72 60;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+01/10/2011;Prospect;;Bussez;Celine;Lotissement de l'Aubit;11320;Montaur;;06 64 75 09 25;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+27/05/2010;Prospect;;Bousquet;Celia;3, route de Cers;11400;Souillhanels;;06 79 81 04 44;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+07/07/2011;Prospect;;Didouh;Tourya;5, rue des 4ts ven;11320;Labastide d'Anjou;04 68 60 15 29;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+02/05/2012;Prospect;;Valente;Celine;"Domaine Catalenc""""";11400;St Martin Lalande;????;????;;;;0;;;;;non;non;8;Tarif catalogue;Standard;TTC
+08/03/2011;Prospect;;Garnier;David;"Les Tryad""""";11400;La Pomarede;;06 23 33 21 94;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+09/06/2010;Prospect;;Pinel;Regine;"Villa Gerboise""""";11320;Labastide d'Anjou;04 68 60 15 12;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+12/11/2011;Prospect;;Villot;Jean-Louis;&e, route de Soupex;11320;Airoux;;06 18 06 79 99;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+01/03/2011;Prospect;;Maysseng;;18, rue Pastel;11320;Labastide d'Anjou;;06 03 95 18 14;;;;0;;;;;non;non;Remis un catalogue interessee par 161;Tarif catalogue;Standard;TTC
+27/04/2011;Prospect;;Darcos;Angela;"Beausejour""""";11320;Montferrand;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+01/03/2011;Prospect;;Labat;Elise;1, impasse des Tournesols;11320;Labastide d'Anjou;;06 22 93 36 41;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+06/04/2012;Prospect;;Puget;Gisele;4, rue des Accacias;11320;Montferrand;04 68 74 85 14;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+06/04/2012;Prospect;;Ourliac;Alain;4, rue des Amandiers;11400;Mas Stes Puelles;04 68 23 41 52;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+27/10/2011;Prospect;;Vernaz;Luc;"Le Passelis""""";11400;Mas Stes Puelles;;06 87 07 64 06;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+03/03/2011;Prospect;;Aubert;Denis;"Naudet""""";11400;Verdun;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+27/04/2011;Prospect;;Pradel;Marie-Rose;"Cousse""""";11320;Montferrand;04 68 60 10 70;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+03/08/2010;Prospect;;Rigaud;Michele;"Le Mas du Pastel""""";11320;Montferrand;04 68 60 19 28;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+06/04/2012;Prospect;;Peruzzaro;Claudine;"La Jonquiere"" D 218S""";11400;Mas Stes Puelles;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+27/10/2011;Prospect;;Poisson;Alvez;lotissement de l'Aubit;11320;Montmaur;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+11/04/2012;Client;;Godard;Chantal;550, rte de t Christophe;11400;Ricaud;04 68 60 05 84;;;;chantal.calin@orange.fr;4;;;;;oui;non;04070/445 Prospecte le 7/7/11;Tarif catalogue;Standard;TTC
+01/10/2011;Prospect;;Viot;Julie;lotissement de l'Audit;11320;Montmaur;;06 75 08 12 91;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+22/11/2011;Prospect;;Ramplou;Monique;"Le Buc""""";11410;Payra sur l'Hers;04 68 60 30 29;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+25/06/2009;Prospect;;Barrotin;;;11400;Issel;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+07/04/2012;Prospect;;Rouquet;Roselyne;"Le Bosc""""";11400;Peyra sur l'Hers;04 68 60 34 28;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+22/11/2011;Prospect;;Papaix;;;11410;Payra sur l'Hers;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+07/04/2012;Prospect;;Leget;Isabelle;6, chemin Hameau de Metges;11320;Montferrand;04 68 60 19 21;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+22/11/2011;Prospect;;Mairie;;;11410;Payra sur l'Hers;04 68 60 30 42;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+07/04/2012;Prospect;;Loupiac;Virginie;"Bordeneuve""  D624""";11410;Peyrefitte sur l'Hers;04 68 60 71 37;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+07/04/2012;Prospect;;Lafore;Jean-Pierre;"Piroulette""""";11400;Peyra sur l'Hers;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+01/10/2011;Prospect;;Ricois;Emmanuelle;lotissement de l'Aubit;11320;Montmaur;;06 47 23 40 49;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+20/05/2009;Client;;Guinet;Janine;Rue de l'Ecole;11400;Treville;04 68 60 46 62;;;;;2;;;;;non;non;07006/040;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Zueras;Rolande;3, route du Mas Saintes Puelles;11400;Villeneuve/Comptal;04 68 23 24 86;;;;;0;;;;;non;non;4006;Tarif catalogue;Standard;TTC
+08/03/2011;Client;;Gateau;Sophie;route de Puginier;11400;La Pomarede;;06 23 33 21 94;;;;2;;;;;non;non;07023/377 Garnier David;Tarif catalogue;Standard;TTC
+19/05/2010;Client;;Olive;Paulette;10, rue de la Coumelle;11400;Villeneuve/Comptal;04 68 23 39 27;;;;;0;;;;;non;non;04015/218;Tarif catalogue;Standard;TTC
+30/01/2012;Client;;Pibouleau;Eliane;9, chemin Vieux;11400;Villeneuve la Comptal;;06 18 04 93 30;;;eliane.pibouleau@sfr.fr;0;Entretien locaux;;;;non;non;04068/435 Rencontre e l'ecole de Villeneuve;Tarif catalogue;Standard;TTC
+15/10/2010;Client;;Dufresnes;Rita;"5, Lot. ""eCammas IIe""""";11400;Souillhanels;04 68 60 08 86;;;;;0;;;;;non;non;04054/388;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Tort;Isabelle;"Saporte""""";11320;Montferrand;04 34 23 01 51;;;;;0;;;;;non;non;07017/272;Tarif catalogue;Standard;TTC
+20/05/2010;Client;;Molinie;Genevieve;4, chemin des Metairies;11400;Villeneuve/Comptal;04 68 23 09 54;;;;;2;Retraites;;;;non;non;04016/221;Tarif catalogue;Standard;TTC
+09/04/2012;Prospect;;Lambert;Valerie;"Peyrebazal""""";11400;Verdun;04 68 60 42 23;;;;;0;;;;;non;non;Mme Lambert est la responsable de l'association de camping de Peyrebazal.;Tarif catalogue;Standard;TTC
+13/12/2010;Prospect;;Soinard;Corinne;1, route de Revel;81540;Durfort;05 63 37 41 95;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+06/04/2012;Prospect;;Esteve-Briat;;1, rue des Deportes;11400;Mas Stes Puelles;04 68 94 05 8&;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+01/07/2009;Prospect;;Pedova;;"En Blanc""""";11400;Issel;04 68 60 53 57;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+06/04/2012;Prospect;;Gilhode;Sophie;"Le Moulin""""";11400;Mas Stes Puelles;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+13/01/2012;Prospect;;Coman;Veronique;16, chemin de Pech-Bruguet;11400;Labecede;04 68 60 47 80;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+09/05/2012;Prospect;;Rebeller;Eliane;4, rue des Accacias;11400;Souilhanels;04 68 60 01 76;;;;;0;;;;;non;non;4;Tarif catalogue;Standard;TTC
+07/04/2012;Prospect;;Melet;Josette;"Villelongue""""";11400;Villeneuve la Comptal;04 68 23 34 99;;;;;2;;;;;non;non;04071/446;Tarif catalogue;Standard;TTC
+20/01/2012;Prospect;;Salamon;Mickael;"Relais St Pierre"" route de Mazere""";11400;Villeneuve la Comptal;06 42 38 96 06;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+23/08/2010;Client;;Arnaud;Genevieve;29, route de Puylaurens;81540;Soreze;05 63 74 14 88;;;;;0;;;;;non;non;03017/292;Tarif catalogue;Standard;TTC
+10/03/2011;Prospect;;Semenou;Lucienne;"La Jonquerie""  235""";81540;Soreze;05 63 50 19 28;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+02/05/2011;Prospect;;Gotti;Marie;"Puget-Bas""""Jean-Raymond""""";11400;Verdun;;;;;;0;;;;;non;non;La ferme en bas de Jean-Raymond;Tarif catalogue;Standard;TTC
+23/08/2010;Client;;Teisseire;Dina;17,  impasse Beausoleil;81540;Soreze;05 63 74 18 09;;;;;1;;;;;non;non;03012/265;Tarif catalogue;Standard;TTC
+03/03/2011;Prospect;;Ourliac;Evelyne;"Jean-Raymond""""";11400;Verdun;04 68 94 23 10;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+06/10/2011;Prospect;;Tournier;Yvette;"En Calcat""""";81540;Soreze;05 63 74 20 31;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+06/10/2011;Prospect;;Armanet;Dominique;"La Jonquerie""   234""";81540;Soreze;05 63 37 04 43;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+22/04/2011;Prospect;;Kranjcewic;Andree;6, rue Jean Antoine Clos;81540;Soreze;05 61 83 85 32;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+06/10/2011;Prospect;;Salles;Svitlana;Lotissement la Vigne;81540;Cahuzac;05 63 72 00 79;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+03/07/2009;Prospect;;Lelong;Isabelle;Chemin d'A-Maury;11400;Issel;04 68 60 46 16;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+09/09/2009;Prospect;;Steevens;Angela;"Le Mulat""""";11400;Issel;04 68 60 06 17;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+17/07/2009;Prospect;;Merglen;;"Bourdette""""";11400;Issel;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+16/05/2012;Prospect;;Landouzy;Elodie;8, avenue de Soreze;31250;Revel;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+16/05/2012;Prospect;;Venet;Franeois;place du Platane;81540;Soreze;;06 75 37 82 84;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+16/05/2012;Prospect;;Orange;Franeoise;9, Chemin de Brugues;81540;Soreze;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+09/01/2012;Client;;Esteve;Celia;;11400;Peyrens;06 15 25 28 84;;;;;0;Infirmiere;;;;non;non;08057/420;Tarif catalogue;Standard;TTC
+12/11/2011;Prospect;;Cabau;Cecile;8, rue des Genets;11400;Peyrens;;06 25 45 37 07;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+06/03/2012;Client;;Pinel;Alexandra;113, allee des Sycomores;11400;Castelnaudary;04 68 60 38 26;;;;guillaume.pinel@neuf.fr;3;Pharmacienne;;;;non;non;09042/427;Tarif catalogue;Standard;TTC
+11/12/2009;Client;;Janzac;Bernadette;2, rue Alexandre Dumas;11400;Castelnaudary;04 68 23 38 94;;;;;0;;;;;non;non;09058/373;Tarif catalogue;Standard;TTC
+28/10/2010;Client;;Prieto;Madeleine;8, rue Jules Massenet;11400;Castelnaudary;04 68 23 24 15;;;;;2;;;;;non;non;09051/297;Tarif catalogue;Standard;TTC
+14/06/2012;Prospect;;Chaix ;Fabien;9, rue Odile Pelissier;81540;Soreze;;;;;;1;;;;;non;non;3;Tarif catalogue;Standard;TTC
+29/02/2012;Prospect;;Raynaud;Gisele;252, chemin des Charmilles;11400;Castelnaudary;04 30 35 40 45;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+12/11/2011;Prospect;;Kudyba;Dariusz;4, rue des Genets;11400;Peyrens;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+02/06/2009;Client;;Brousse;Stephanie;"2, Lotissement Le Moulin""""";11150;Villepinte;04 68 94 81 13;;;;;0;;;;;non;non;08022/093;Tarif catalogue;Standard;TTC
+07/03/2012;Client;;Gueffier;Sylvie;7, rue du Reservoir;11150;Pexiora;;06 23 87 18;;;;0;;;;;non;non;06043/430;Tarif catalogue;Standard;TTC
+13/08/2009;Client;;Geny;Angelique;27, rue du Cheteau Fort;;St Martin le vieil;09 66 85 55 72;;;;angelique.geny@orange.fr;4;;;;;non;non;08016/076;Tarif catalogue;Standard;TTC
+12/06/2009;Client;;Chaubet;Marc;"Cammas Neuf""""";11400;St Papoul;;06 88 90 38 16;;;;0;;;;;non;non;05013/045;Tarif catalogue;Standard;TTC
+23/09/2011;Client;;Cazeau;Christine;8, impasse du Stade;11270;Lassere de Prouille;04 68 20 66 61;;;;christinecazeau@orange.fr;5;;;;;non;non;10029/402 Par Chantal Sautron;Tarif catalogue;Standard;TTC
+19/04/2011;Client;;Pousse ;Jacqueline;Ecluse de Guerre;11400;St Martin Lalande;04 68 94 81 78;;;;;2;;;;;non;non;08047/346 Bernard Puget;Tarif catalogue;Standard;TTC
+25/05/2009;Client;;Yagouba;Hakima;"5, residence la Cressoniere""""";11150;Pexiora;06 70 63 27 18;;;;;0;;;;;non;non;06003/019;Tarif catalogue;Standard;TTC
+06/05/2009;Client;;Binet;Joelle;6, Impasse Cypres;11150;Pexiora;04 68 94 95 24;;;;;0;;;;;non;non;06006/016;Tarif catalogue;Standard;TTC
+18/06/2010;Client;;Besombes;Janine;"Les Peyrous""""";11150;Villasavary;04 68 24 72 18;;;;;0;Retraites;;;;non;non;06021/232;Tarif catalogue;Standard;TTC
+31/05/2012;Prospect;;Ranson;Estelle;2, rue des Amandiers;11170;Pexiora;04 68 60 29 10;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+15/10/2010;Client;;Rodriguez;Pierre;Rue des Cytises;11400;Souillhanels;04 68 60 01 06;;;;;0;;;;;non;non;04060/408;Tarif catalogue;Standard;TTC
+20/05/2010;Client;;Gleizes;Pierre;20, chemin Vieux;11400;Villeneue la Comptal;04 68 94 01 96;;;;;1;Retraites;;;;non;non;04069/437;Tarif catalogue;Standard;TTC
+25/06/2009;Client;;Voss;Lothar;Rte de St Papoul;11400;Issel;04 68 60 48 57;;;;;1;;;;;non;non;05015/051;Tarif catalogue;Standard;TTC
+15/07/2009;Client;;Claux;Marie;rue des Fontaines;11400;St Papoul;04 68 94 95 31;06 78 13 08 08;;;marie11@orange.fr;0;;;;;non;non;08046/321;Tarif catalogue;Standard;TTC
+13/06/2012;Prospect;;Zimermann;Armand;"Cantoperlic""""";81540;Belleserre;05 63 74 20 20;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+13/06/2012;Prospect;;Douarche;Sylvain;7, rue Paul Riquet;11400;St Martin Lalande;;06 85 21 17 09;;;;0;;;;;non;non;8;Tarif catalogue;Standard;TTC
+13/06/2012;Prospect;;Melet;Veronique;44, rue Paul Riquet;11400;St Martin Lalande;04 68 60 18 52;;;;;0;;;;;non;non;8;Tarif catalogue;Standard;TTC
+13/06/2012;Prospect;;Ourliac;Angelique;55, rue Paul Riquet;11400;St Martin Lalande;04 68 23 04 76;;;;;0;;;;;non;non;8;Tarif catalogue;Standard;TTC
+13/06/2012;Prospect;;Jendrzejewsci;;20, rue Paul Riquet;11400;St Martin Lalande;;06 49 40 99 77;;;;0;;;;;non;non;8;Tarif catalogue;Standard;TTC
+21/05/2012;Client;;Loertscher;Myriam;;11610;Pennautier;;06 98 96 09 02;;;myriam.loertscher@bbox.fr;0;;;;;non;non;10039/459;Tarif catalogue;Standard;TTC
+15/06/2012;Prospect;;Forlin;Claudette;3, impasse Roquefort;31250;Revel;06 42 03 91 49;;;;;0;;;;;non;non;1;Tarif catalogue;Standard;TTC
+15/06/2012;Prospect;;Ponthieu;Franeoise;54, rue Roquefort;31250;Revel;05 61 83 71 33;;;;;0;;;;;non;non;1;Tarif catalogue;Standard;TTC
+15/04/2011;Client;;Fredes;Sophie;7, rue Robert Schuman;11400;Castelnaudary;04 68 23 52 39;;;;;2;Retraites;;;;non;non;09055/345;Tarif catalogue;Standard;TTC
+28/02/2012;Client;;Riddel;John;"Domaine du Fiou""                              ""Le Breil""""";11400;Castelnaudary;04 68 23 29 76;;;;;0;;;;;non;non;M'a offert une carte. j'ai  remis e Mme un cabas fleurs avec un tube NS + Hakasoft + creme lavante    e l'AV + une eponge lavette.;Tarif catalogue;Standard;TTC
+07/07/2009;Client;;Brignol;Marieke;"Le Petit Raynaud""""";11400;St Papoul;04 68 94 98 14;;;;artbrignol@yahoo.fr;0;;;;;non;non;08011/062;Tarif catalogue;Standard;TTC
+30/08/2011;Prospect;;Vielmas;Eliane;"Cayrol""  D 517""";11410;Cumies;04 68 60 23 27;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+02/05/2009;Client;;Dirand;Annie;"Petit Bocage""""";31250;Vaudreuille;05 34 66 41 00;;;;melodd@hotmail.fr;0;;;;;non;non;05004/026;Tarif catalogue;Standard;TTC
+12/07/2012;Prospect;;Guilbert;Brinda;"Le Village""""";81540;Belleserre;;06 13 84 82 11;;;;0;;;;;non;non;03 Mauricienne;Tarif catalogue;Standard;TTC
+05/09/2011;Client;;Barutel;Monique;140, avenue Frederic Mistral;11400;Castelnaudary;04 68 60 45 94;;;;;0;;;;;non;non;09068/465 Travaille e la ferme Soulayre e Fonters;Tarif catalogue;Standard;TTC
+17/07/2012;Prospect;;Delalleau;Didier;"Las Courtines""""";11270;Gaja la Selve;09 51 99 54 20;;;;;0;;;;;non;non;02/;Tarif catalogue;Standard;TTC
+19/07/2012;Client;;Saulnier;Charlotte;1, place Jules Romain;11400;Castelnaudary;06 61 18 59 77;;;;;0;;;;;non;non;09 rencontre sur la place devant Mme Ferrier;Tarif catalogue;Standard;TTC
+24/07/2012;Prospect;;Cathala;Veronique;70, chemin de la Carriere;11400;St Martin Lalande;04 68 94 81 01;;;;;0;;;;;non;non;8 Chemin au-dessus de Jean-Marie. On peut rencontrer Mme Cathala chez Mme Contier le mercredi.;Tarif catalogue;Standard;TTC
+27/06/2012;Client;;Dalbosc;Laura;9, Impasse de Cypres;11150;Pexiora;06 18 02 20 83;;;;laurapex11@hotmail.fr;3;;;;;non;non;;Tarif catalogue;Standard;TTC
+12/07/2011;Client;;Fresnel;Monique;"Les Cannonges""""";11150;Villasavary;04 68 24 75 43;;;;monique.fresnel@aude.gouv.fr;0;Veterinaire;;;;non;non;06045/444;Tarif catalogue;Standard;TTC
+11/07/2012;Prospect;;Bouysse;Francine;"Le Village""""";81540;Belleseserre;;06 83 27 26 83;;;Sans;0;;;;;non;non;3;Tarif catalogue;Standard;TTC
+24/07/2012;Prospect;;Picafrel;Adrien;388, rue de l'Amourouse;11400;St Martin Lalande;04 68 94 99 03;;;;;0;;;;;non;non;8;Tarif catalogue;Standard;TTC
+10/05/2012;Prospect;;Faure;Pauline;Impasse de la Ruche;11400;Souilhanels;06 21 24 96 43;;;;;0;;;;;non;non;4;Tarif catalogue;Standard;TTC
+21/06/2010;Client;;De la Roussiere;Delphine;"Les Mercieres"" D371""""";11150;Villasavary;;06 83 58 66 50;;;;0;;;;;non;non;06020/230;Tarif catalogue;Standard;TTC
+25/07/2012;Client;;Pujol;Chantal;chemin de Chateau de Robert;11150;Villesislcle;04 68 76 18 44;;;;chantal.pujol11@hotmail.fr;0;;;;;non;non;10046/471;Tarif catalogue;Standard;TTC
+20/03/2012;Prospect;;Fontaine;Monique;18, rue du Sor;81540;Soreze;;06 88 25 23 19;;;;0;Aide e la personne;;;;non;non;Apres 18H30;Tarif catalogue;Standard;TTC
+24/08/2012;Prospect;;Mouret;Maurice;8, avenue de Soreze;31250;Revel;05 63 81 56 59;;;;;2;;;;;non;non;1;Tarif catalogue;Standard;TTC
+24/08/2012;Prospect;;Schmidt;Marie-Jose;441, chemin des Bouriettes;81540;Soreze;;06 74 15 73 74;;;;0;;;;;non;non;3;Tarif catalogue;Standard;TTC
+11/09/2012;Prospect;;Bijoux;Catherine;"16, residence Le Foutet""""";11400;Villeneuve la Comptal;04 68 60 68 29;06 33 33 18 33;;;catherine.bijoux@insee.fr;0;;;;;non;non;4;Tarif catalogue;Standard;TTC
+10/09/2010;Client;;Rieux;Nicole;Place des Platanes;11400;Mas Stes Puelles;04 68 23 07 08;;;;;2;Epicerie;;;;non;non;04049/333;Tarif catalogue;Standard;TTC
+11/09/2012;Prospect;;Franeois;Carole;1, rue des Marguerites;11400;Mas Saintes Puelles;04 30 35 0491;;;;;0;;;;;non;non;4;Tarif catalogue;Standard;TTC
+11/09/2012;Prospect;;Lamirault;;6, rue des Marguerites;11400;Mas Saintes Puelles;04 68 60 27 81;;;;;0;;;;;non;non;4;Tarif catalogue;Standard;TTC
+12/09/2012;Prospect;;Rey;Philippe;3, rue des Amandiers;11400;Mas Saintes Puelles;;;;;;0;;;;;non;non;4;Tarif catalogue;Standard;TTC
+26/01/2011;Client;;Rey;Carole;"En Gros""""";81540;Cahuzac;05 63 73 22 93;;;;carole.rey4@wanadoo.fr;0;;;;;non;non;03028/359;Tarif catalogue;Standard;TTC
+19/09/2012;Prospect;;Fernandez;Daniele;"Jeannot""""";81540;Belleserre;05 63 73 28 86;;;;;0;;;;;non;non;03 La maison apres le virage e gauche;Tarif catalogue;Standard;TTC
+19/09/2012;Prospect;;Semin;Christiane;"Jeannot""""";81540;Belleserre;05 63 50 17 74;;;;;0;;;;;non;non;03 C'est la troisieme maison e droite en venant de Belleserre;Tarif catalogue;Standard;TTC
+20/09/2012;Prospect;;Pernot;Cecile;"chemin de l'Autan
+La Garrigole""""";81540;Soreze;;06 76 20 08 84;;;;0;;;;;non;non;03 Rencontre en allant chez les Calvet;Tarif catalogue;Standard;TTC
+25/09/2012;Prospect;;Charpentier;Jean-Marc;227, rue Georgin;11400;Castelnaudary;;;;;;1;;;;;non;non;9;Tarif catalogue;Standard;TTC
+04/10/2012;Prospect;;Bourrel;Paulette;"Arnaud-Guylhen""""";11150;Villepinte;04 68 94 25 62;;;;;0;;;;;non;non;8;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Sautron;Chantal;14, Chemin de l'Orme;11150;Villasavary;04 68 24 00 75;;;;chantalsautron@orange.fr;5;Femme au foyer;;;;oui;non;06040/385;Tarif catalogue;Standard;TTC
+05/10/2012;Prospect;;Lopez Bolonia;Beatrice;4, chemin de l'Orme;11150;Villasavary;04 68 24 01 52;;;;;0;;;;;non;non;6;Tarif catalogue;Standard;TTC
+05/10/2012;Prospect;;Sebastien;Virginie;12, rue des Pyrenees;11150;Villasavary;;06 71 03 85 76;;;;0;;;;;non;non;6;Tarif catalogue;Standard;TTC
+16/07/2010;Client;;Fabro;Bruno;1, chemin de Font Couverte;11400;Mas Stes Puelles;04 68 23 41 82;;;;brubru52@live.fr;0;;;;;non;non;04031/261 livre le 9 janvier une serviette bambou bleu e facturer sur un prochain achat;Tarif catalogue;Standard;TTC
+12/07/2010;Client;;Cuxac;Maria;"Le Perdut""""";11400;Peyrens;04 68 60 41 39;;;;;1;;;;;non;non;08040/246  Je lui dois 4 ? sur un billet de 10 suite e une vente d'un 1112 dater du 14/2/13;Tarif catalogue;Standard;TTC
+18/09/2009;Client;;Bonal;Suzanne;443, chemin des Bouriattes;81540;Soreze;05 63 74 11 96;;;;jean--marie.bonal@wanadoo.fr;2;;;;;non;non;03004/112;Tarif catalogue;Standard;TTC
+16/10/2012;Prospect;;Grasset;Janine;41, avenue de la Liberte;31250;Revel;05 61 34 86 05;;;;;0;;;;;non;non;1;Tarif catalogue;Standard;TTC
+17/10/2012;Prospect;;Puget;Karine;chemin de Saint Roch;31250;Revel;06 99 52 30 97;;;;;0;;;;;non;non;1;Tarif catalogue;Standard;TTC
+16/10/2012;Prospect;;Sobera;Christiane;"Jeannot""""";81540;Belleserre;;;;;;0;;;;;non;non;3;Tarif catalogue;Standard;TTC
+16/10/2012;Prospect;;Gleizes;Patricia;"Jeannot""""";81540;Belleserre;;06 84 02 90 25;;;;0;;;;;non;non;3;Tarif catalogue;Standard;TTC
+12/04/2012;Client;;Salvetat;Marie-Paule;7, rue Salvat;11400;Castelnaudary;04 68 23 28 63;;;;;0;;;;;non;non;09066/460 Rencontre le mari chez Mme Melet Josette e Villeneuve face e Etape hotel ;Tarif catalogue;Standard;TTC
+19/04/2011;Client;;Contier;Regine;Les Jardins St Joseph;11400;St Martin Lalande;04 68 94 92 41;;;;;0;;;;;non;non;08052/364;Tarif catalogue;Standard;TTC
+05/10/2012;Client;;Rang;Jocelyne;;11270;Prouilhe;;;;;;1;;;;;non;non;10048/478;Tarif catalogue;Standard;TTC
+30/10/2012;Prospect;;Rousselle;Charlene;31, route de Villespy;11150;Villepinte;;06 62 21 67 80;;;;0;;;;;non;non;8;Tarif catalogue;Standard;TTC
+19/09/2012;Client;;Papin;Florence;"Esquirol""""";81540;Belleserre;05 63 73 13 12;;;;esquirol81@aol.fr;3;;;;;non;non;;Tarif catalogue;Standard;TTC
+01/09/2010;Client;;Romulus;M-Helene;"Lotissement La Vigne""""";81540;Cahuzac;05 63 73 14 07;;;;marie-helene.romulus@orange.fr;4;;;;;non;non;03020/295;Tarif catalogue;Standard;TTC
+19/09/2012;Client;;Charlot;Rene;"Jeannot""""";81540;Belleserre;05 63 74 70 56;;;;martinecarretero@orange.fr;3;;;;;oui;non;03043/489 Mme Carretero Martine;Tarif catalogue;Standard;TTC
+06/05/2009;Client;;Bartholome;Claudette;Pech Bruguet;11400;Labecede;04 68 60 44 34;;;;;2;;;;;oui;non;05002/028;Tarif catalogue;Standard;TTC
+02/11/2011;Client;;Belinguier;Chantal;10, chemin Pech-Bruguet;11400;Labecede;04 68 60 45 42;;;;c.belinguier@wanadoo.fr;4;;;;;non;non;05054/439;Tarif catalogue;Standard;TTC
+02/10/2012;Client;;Nicolescu;Alexandra;33, route de Villespy;11170;Villepinte;06 95 31 12 32;;;;nicolescualexandra21@yahoo.com;2;;;;;oui;non;08062/484;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Rennesson;Jocelyne;"Lou Passerou"" chemin de Serre""";11400;St Papoul;04 68 60 45 52;;;;phjorennesson@orange.fr;0;Femme au foyer;;;;non;non;08056/407;Tarif catalogue;Standard;TTC
+16/05/2009;Client;;Laroque;Emmanuelle;Impasse du Bosquet;31250;Vaudreuille;;06 25 08 39 51;;;piqueralain@aol.com;0;;;;;oui;non;05057/492;Tarif catalogue;Standard;TTC
+30/11/2012;Prospect;;Crampagne;;"Marquie""""";11150;Villasavary;04 68 76 16 83;;;;;0;;;;;non;non;06 rte de Bram D33 e droite vers Villasavary apres le franchisement de l'autoroute e gauche;Tarif catalogue;Standard;TTC
+20/11/2012;Prospect;;Fratezak;Guillaume;"Le Puget""""";11270;Gaja la Selve;;06 83 40 99 73;;;;0;;;;;non;non;02 au poteau tourner e droite sur la D102, puis encore e droite;Tarif catalogue;Standard;TTC
+19/07/2010;Client;;Manzato;Marie;"Le Triou""  D218""";;Mas Stes Puelles;04 68 60 10 82;;;;;0;;;;;non;non;"04024/251 D218 apres Bernes""""";Tarif catalogue;Standard;TTC
+20/04/2011;Client;;Cipres;Helene;3a, rue de l'Egalite;11150;Villasavary;04 68 76 94 31;06 75 52 19 33;;;alinuta13220@yahoo.fr;3;;;;;non;non;06037/350;Tarif catalogue;Standard;TTC
+15/03/2012;Client;;Lopez;Corinne;16, rue Principale;11320;Airoux;04 68 60 02 10;;;;corinnelopez@laposte.net;6;Assistante familiale;;;;oui;non;07027/438;Tarif catalogue;Standard;TTC
+21/10/2009;Client;;Belli;Serge;3, Bd Gambetta;11150;Villepinte;04 34 18 90 48;06 12 77 33 47;;;;0;;;;;non;non;8026;Tarif catalogue;Standard;TTC
+26/02/2010;Client;;Kriebus;Celine;"Catalenc""""";11400;Saint Martin Lalande;09 62 60 09 86;;;;;0;;;;;non;non;08034/190;Tarif catalogue;Standard;TTC
+21/03/2013;Prospect;;Quenardel;;"Moussanguy"" D213  Rte de Villasavary""";11150;Villepinte;04 68 94 31 69;;;;;0;;;;;non;non;8;Tarif catalogue;Standard;TTC
+26/03/2013;Prospect;;Bastier;Gerard;"Le Moulin""""";11410;Payra sur l'Hers;04 68 60 34 64;;;;;0;;;;;non;non;4;Tarif catalogue;Standard;TTC
+26/03/2013;Prospect;;Gaubert;Christiane;1, rue de la Mairie;11410;Payra sur l'Hers;04 68 60 34 17;;;;;0;;;;;non;non;4;Tarif catalogue;Standard;TTC
+04/03/2013;Client;;Faure;Danielle;4, chemin d'Issel;11400;Labecede;04 68 60 42 81;;;;;0;;;;;non;non;05058/507 Juin Clement;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Brunel;Carole;4, Impasse Claude Monet;31250;Revel;05 61 54 00 82;;;;carolejeromebrunel@orange.fr;0;;;;;non;non;1020;Tarif catalogue;Standard;TTC
+03/04/2013;Prospect;;Foures;Marie-Cecile;rue Pere Pouget;81540;Soreze;;06 22 23 14 80;;;;0;;;;;non;non;3;Tarif catalogue;Standard;TTC
+01/12/2012;Prospect;;Crayol;Jean-Claude;70, avenue de Vaudreuille;31250;Revel;05 61 34 13 54;;09 66 40 57 16;;;1;Retraites;;;;non;non;1;Tarif catalogue;Standard;TTC
+10/04/2013;Prospect;;Stairs;Sharon;"La Sapiniere""""";11400;Laurabuc;04 68 94 28 64;;;;;0;;;;;non;non;2;Tarif catalogue;Standard;TTC
+23/04/2013;Prospect;;Batut;Monique;"Les Cruozetis""""";11400;La Pomarede;;06 20 53 36 47;;;;0;;;;;non;non;7;Tarif catalogue;Standard;TTC
+24/04/2013;Client;;Bertocchi;Beatrice;"La Petite Bourdette""""";11400;Mas Saintes Puelles;04 68 60 18 45;;;;;0;;;;;non;non;4;Tarif catalogue;Standard;TTC
+23/04/2013;Prospect;;Clergue;Nadia;"Les Vottes""""";11400;La Pomarede;04 68 60 46 61;;;;;0;;;;;non;non;7;Tarif catalogue;Standard;TTC
+23/04/2013;Prospect;;Clergue;Jeanette;"Les Vottes""""";11400;La Pomarede;04 68 60 40 70;;;;;0;;;;;non;non;7;Tarif catalogue;Standard;TTC
+08/11/2012;Prospect;;Domingez;Enrica;"La Marfette""""";11400;La Pomarede;04 68 23 57 89;;;;;2;;;;;non;non;7;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Marechaux;Marie-Catherine;"Domaine de la Griffe""""";11400;Saint Martin;04 68 60 53 48;06 21 28 14 16;;;mc.marechaux@laposte.net;0;;;;;non;non;08048/347;Tarif catalogue;Standard;TTC
+04/10/2012;Client;;Moulard;Jean-Jacques;5, route de Villasavary;11150;Villepinte;04 68 94 22 94;;;;;0;;;;;non;non;08061/483;Tarif catalogue;Standard;TTC
+15/05/2013;Prospect;;Delfa;Catherine;8, rue des Amandiers;11150;Pexiora;04 68 94 92 68;;;;;0;;;;;non;non;6;Tarif catalogue;Standard;TTC
+17/05/2013;Prospect;;Bastoul;Roger;"2066  Le Rivel""""";11400;Castelnaudary;04 68 60 05 08;;;;Sans;0;;;;;non;non;9;Tarif catalogue;Standard;TTC
+17/05/2013;Prospect;;Jover;Elodie;"2064  Le Rivel""""";11400;Castelnaudary;;06 51 38 03 75;;;;0;;;;;non;non;9;Tarif catalogue;Standard;TTC
+23/05/2013;Prospect;;Caussinus;Monique;"La Garrigue""""";11400;La Pomarede;;06 16 19 08 99;;;;0;;;;;non;non;7;Tarif catalogue;Standard;TTC
+30/05/2013;Prospect;;Serres;Pierette;17, rue du Cdt Croux;81540;Soreze;05 63 74 17 05;;;;;0;;;;;non;non;3;Tarif catalogue;Standard;TTC
+12/03/2013;Client;;Dolsan;Celine;26, rue Martin d'Auche;11400;Castelnaudary;04 68 23 26 42;;;;Sans;0;;;;;non;non;09071/508 Par Mme Negrier;Tarif catalogue;Standard;TTC
+30/03/2012;Client;;Armengaud;Janine;"Layrac""101 chemin Notre Dame""";11400;Castelnaudary;04 68 23 29 76;;;;jean.armengaud@neuf.fr;2;Retraites;;;;non;non;09063/443;Tarif catalogue;Standard;TTC
+04/06/2013;Prospect;;Facco;Eugene;"Le Rivel""""";11400;Castelnaudary;;06 10 70 98 02;;;;0;;;;;non;non;9;Tarif catalogue;Standard;TTC
+11/06/2013;Prospect;;Bordenave;Amanda;Couloumies le Vieux;11150;Villasavary;09 52 08 66 51;;;;;0;;;;;non;non;06 Texane;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Blanc;Isabelle;"La Barthole""""";11320;Montferrand;04 68 23 64 17;;;;blancjeanchristophe@sfr.fr;5;;;;;oui;non;07016/271;Tarif catalogue;Standard;TTC
+11/06/2013;Prospect;;Hemachandran;Martine;"La Gajeanne""""";11400;St Martin Lalande;;06 20 54 51 82;;;;0;;;;;non;non;08 Infirmiere derriere J-Marie;Tarif catalogue;Standard;TTC
+13/06/2013;Prospect;;Piquemal;Paulette;"La Miserable""""";11150;Villepinte;04 68 94 24 68;;;;;0;;;;;non;non;08 En-dessous de Mme Assemat;Tarif catalogue;Standard;TTC
+19/06/2013;Prospect;;Exposito;Montserrat;13, place Lamartine;11400;Castelnaudary;04 68 60 02 69;06 21 18 24 73;;;;0;;;;;non;non;09 Rencontre chez la famille Bosch;Tarif catalogue;Standard;TTC
+19/06/2013;Prospect;;Mailho;Chantal;2, avenue de l'Europe;11400;Castelnaudary;;06 12 82 60 52;;;;0;;;;;non;non;09 Maman de Mme Jordana, suite maladie serait interessee par des produits sains;Tarif catalogue;Standard;TTC
+16/08/2010;Client;;Bauvais;Christine;"Le Bouscatel""""";81540;Soreze;05 63 73 42 33;;;;;0;;;;;non;non;03047/516;Tarif catalogue;Standard;TTC
+20/06/2013;Prospect;;Condouret;Christiane;"Lotissement La Pommelle""""";11400;Villeneuve la Comptal;04 68 23 39 98;;;;;0;;;;;non;non;4;Tarif catalogue;Standard;TTC
+26/06/2013;Prospect;;Larroch;Bernard;"La  ferme Dupuy""""";81540;Soreze;05 61 83 44 92;;;;;0;;;;;non;non;3;Tarif catalogue;Standard;TTC
+26/06/2013;Prospect;;Miloudi;Stephanie;12, rue du Pere Pouget;81540;Soreze;;06 18 69 11 17;;;;0;;;;;non;non;3;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Plastoni;Albertine;10, rue de la Barbotine;11400;Castelnaudary;04 68 60 06 81;;;;;0;;;;;non;non;06001/001 PP balais magik voir lessives rapel NS;Tarif catalogue;Standard;TTC
+09/07/2013;Prospect;;Winnberg;Isabelle;La Gajeanne;11400;Saint Martin;04 68 94 85 56;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+19/03/2013;Client;;Bourdil;Valerie;"Lanta""""";11150;Villasavary;04 68 24 79 00;;;;Sans;0;;;;;non;non;06049/520;Tarif catalogue;Standard;TTC
+12/07/2013;Prospect;;Ournac;Myriam;"Le Moulin""""";11150;Villasavary;04 68 24 72 82;;;;;0;;;;;non;non;6;Tarif catalogue;Standard;TTC
+11/07/2013;Prospect;;Ragot;Audrey;"Rataou""""";11400;Saint Papoul;09 75 86 29 30;;;;;0;;;;;non;non;8;Tarif catalogue;Standard;TTC
+12/07/2013;Prospect;;Wallois;Olivier;"La Goutine Ouest""""";11150;Villasavary;04 68 24 60 89;;;;;0;;;;;non;non;06 Sur la route menant vers Laurabuc;Tarif catalogue;Standard;TTC
+12/07/2013;Prospect;;Spanghero;guy;"Le Massac""""";11150;Villasavary;04 68 94 96 85;;;;;0;;;;;non;non;6;Tarif catalogue;Standard;TTC
+22/05/2013;Client;;Jordana;Cecilia;"Villa 5 Logis du Berger""""";11400;Villeneuve la Comptale;;06 29 32 90 68;;;davidcecilia@free.fr;0;;;;;non;non;04077/521;Tarif catalogue;Standard;TTC
+26/06/2013;Client;;Passerieux;Arlette;6, rue Auguste Palleville;81540;Soreze;05 34 66 19 29;;;;;0;;;;;non;non;03051/532;Tarif catalogue;Standard;TTC
+28/02/2011;Client;;Campagnaro;Marie-Therese;5, chemin de la Rouquignolle;11400;Lasbordes;04 68 94 96 71;;;;;0;Entretien locaux;;;;non;non;08045/320;Tarif catalogue;Standard;TTC
+18/07/2013;Prospect;;Gilbert;Guy;l'Entheulet;11400;La Pomarede;04 68 60 41 93;;;;;0;;;;;non;non;7;Tarif catalogue;Standard;TTC
+23/07/2013;Prospect;;Delagrange;Laurence;28, rue de Dreuilhe;31250;Revel;05 61 83 35 08;;;;;0;;;;;non;non;1;Tarif catalogue;Standard;TTC
+30/07/2013;Prospect;;Crochard;Cedric;140, rue de la Barbotine;11400;Castelnaudary;;06 86 17 29 92;;;;0;;;;;non;non;9;Tarif catalogue;Standard;TTC
+30/07/2013;Prospect;;Nicol;Gerard;100, rue de la Barbotine;11400;Castelnaudary;04 68 23 28 78;;;;;0;;;;;non;non;9;Tarif catalogue;Standard;TTC
+20/04/2012;Client;;Segonne;Therese;"3, chemin du CausseLa Duretie""""";81540;Soreze;05 63 74 17 97;06 03 03 22 87;;;Neant;2;;;;;oui;non;03038/458;Tarif catalogue;Standard;TTC
+27/09/2010;Client;;Auriol;Ida;8, chemin du Causse;81540;Sorese;05 63 74 16 07;;;;;0;;;;;oui;non;03 P le 16/11+T  14/12abs  10/2/11  9/9/11;Tarif catalogue;Standard;TTC
+01/08/2013;Prospect;;Clauzel;Suzanne;chemin Ronde;11400;Mireval;04 68 23 48 07;;;;;0;;;;;non;non;2;Tarif catalogue;Standard;TTC
+07/06/2013;Client;;Hamel;Anne-Marie;84, allee Erables;11400;castelnaudary;;06 09 58 08 49;;;annemariehamel04@yahoo.fr;0;;;;;non;non;09075/519;Tarif catalogue;Standard;TTC
+29/08/2013;Prospect;;Chaubet;Catherine;1, chemin du Moulin;11410;Payra/l'Hers;09 53 66 19 09;06 79 47 28 31;;;;0;;;;;non;non;4;Tarif catalogue;Standard;TTC
+29/08/2013;Prospect;;Champonet;Nelly;4 bis, rue de l'Eglise;11410;Payra/l'Hers;04 68 23 49 53;;;;;0;;;;;non;non;4;Tarif catalogue;Standard;TTC
+29/08/2013;Prospect;;Kupiec;Christian;4, rue de l'Eglise;11410;Payra/l'Hers;09 54 34 23 39;;;;;0;;;;;non;non;4;Tarif catalogue;Standard;TTC
+11/09/2013;Prospect;;Bischler;Cathy;"Coufinals""""";31540;ST Felix;;06 45 86 88 39;;;;0;;;;;non;non;10;Tarif catalogue;Standard;TTC
+11/09/2013;Prospect;;Tort;Nicole;122,  avenue Monseigneur de Langles;11400;Castelnaudary;?????;;;;;0;;;;;non;non;10;Tarif catalogue;Standard;TTC
+12/09/2013;Prospect;;Van der Bossche;Jean-Franeois;8, chemin de Mercier;11270;Gaja la Selve;04 68 23 36 09;;;;;0;;;;;non;non;2;Tarif catalogue;Standard;TTC
+12/09/2013;Prospect;;Haward;John;"Le Puget""""";11270;Gaja la Selve;04 68 60 26 30;;;;;0;;;;;non;non;2;Tarif catalogue;Standard;TTC
+27/08/2013;Client;;Rambier;Catherine;5, rue Principale;11410;Cumies;;06 13 08 83 81;;;cathyram@wanadoo.fr;0;;;;;non;non;4;Tarif catalogue;Standard;TTC
+23/08/2013;Prospect;;Smyth;Brigitte;7, chemin Chabart;11150;Villasavary;04 68 24 07 02;;;;;0;;;;;non;non;6;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Pinel;Olivier;Chemin des Peupliers;11400;Ricaud;04 68 60 07 58;06 01 72 76 34;;;pinel-francoise@orange.fr;0;;;;;non;non;04059/404 Franeoise;Tarif catalogue;Standard;TTC
+23/11/2011;Client;;Routelous;M-Helene;25, Chemin de Boutarics;11400;Mas Stes Puelles;;06 10 99 43 06;;;;0;;;;;non;non;04063/415;Tarif catalogue;Standard;TTC
+09/06/2011;Client;;Obexer;Elisabeth;chemin du Cammas;11400;Souilhanels;;06 26 09 05 63;;;;0;;;;;non;non;04064/416;Tarif catalogue;Standard;TTC
+24/09/2013;Prospect;;Rolland;Bernadette;6, rue de l'Ecole;11400;Villeneuve la Comptal;04 68 23 29 11;;;;;0;;;;;non;non;4;Tarif catalogue;Standard;TTC
+11/09/2013;Client;;Beaudinot;Marie;107, allee des Erables;11400;Castelnaudary;04 68 23 28 15;;;;pierre.beaudinot@orange.fr;0;;;;;non;non;09077/536;Tarif catalogue;Standard;TTC
+24/10/2012;Client;;Leroy d'Auderic;Veronique;"Las Courtines""""";11270;Gaja la Selve;04 68 60 51 21;;;;leroydauderic@free.fr;0;;;;;non;non;02032/544;Tarif catalogue;Standard;TTC
+23/10/2013;Prospect;;Gleizes;Jean-Pierre;3, rue des Lilas;11400;Mas Saintes Puelles;04 68 23 44 55;;;;;0;;;;;non;non;04 rencontre chez les Bosch;Tarif catalogue;Standard;TTC
+23/10/2013;Prospect;;Stivanin;Christine;Bureau de Poste;11410;Payra sur l'Hers;04 68 60 31 55;;;;;0;;;;;non;non;4;Tarif catalogue;Standard;TTC
+22/04/2012;Client;;Stucky;Corinne;;31540;Montegut;;06 78 89 81 36;;;corinne.stucky@orange.fr;2;;;;;oui;non;Par Mme Vidal Sylvie e Soreze;Tarif catalogue;Standard;TTC
+29/10/2013;Prospect;;Olifirenko;Bernard;"L'Encastre""     Saint Ferreol""";31250;Vaudreuille;;06 88 43 46 36;;;;0;;;;;non;non;05 Geobiologiste;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Bonilla;Fabienne;Clos St Simon av. Meigr de Langle;11400;Castelnaudary;04 68 94 17 79;06 20 36 01 30;;;fabienne.bonilla@wanadoo.fr;0;;;;;non;non;09014/141;Tarif catalogue;Standard;TTC
+07/06/2010;Client;;Ramon;Helene;"Le Garnissol""""";11400;Mas Stes Puelles;;06 87 14 32 33;;;yogihelene@yahoo.fr;2;;;;;non;non;04029/259;Tarif catalogue;Standard;TTC
+06/11/2013;Client;;Beddek;Valerie;13bis rue de Seville;11000;Carcassonne;07 81 68 19 29;;;;;4;;;;;oui;non;;Tarif catalogue;Standard;TTC
+06/11/2013;Client;;Moya;Eliane;6, Lotissement la Campanela;11570;Palaja;06 13 85 78 04;;;;Ninipalaja.@icloiud.com;3;;;;;non;non;;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Majorel;Evelyne;"Les Balances""""";11270;Generville;04 68 60 53 88;684462197;;;earl.les-balances@orange.fr;4;;;;;oui;non;2015;Tarif catalogue;Standard;TTC
+28/07/2010;Client;;Chateau de Lavail De La Rambelje;Nawal;"Domaine de Lavail""""";11320;Labastide d'Anjou;;06 89 17 12 33;;;contact@chateau-lavail.com;0;;;;;non;non;04019/238;Tarif catalogue;Standard;TTC
+29/08/2013;Client;;Fries;Jahel;1, lotissement des Jardins;11400;Villeneuve la Comptal;;06 07 83 18 52;;;fries.olivier@wanadoo.fr;0;;;;;non;non;04081/539;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Izard;Paule;"Fonters Bas""  D15""";11400;Fonters du Razes;04 68 60 52 67;;;;francoise-frederic@wanadoo.fr;0;;;;;non;non;02022/363;Tarif catalogue;Standard;TTC
+13/06/2013;Client;;Cayuela;Valerie;"Le Rauzel""""";11150;Villasavary;04 68 79 01 75;;;;marc-henri.cayuela@orange.fr;5;;;;;oui;non;06052/554 Voisine de Mme Bourdil;Tarif catalogue;Standard;TTC
+05/02/2014;Prospect;;Rouzau;Carole;685, route de Ricaud;11400;Mas Saintes Puelles;;06 12 80 71 53;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+02/05/2013;Client;;Bastier;Peggy;17, rue de Dreuilhe;31250;Revel;05 61 27 65 98;;;;peggy.bastier@neuf.fr;0;;;;;non;non;01031/513;Tarif catalogue;Standard;TTC
+01/09/2011;Client;;Maisey;Susan;"En Ramounas""  """;11320;Montferrand;04 68 60 18 06;;;;enramounas@wanadoo.fr;0;;;;;non;non;"Anglaise apres les touzeilles"" e gauche PP Activatop - Serviette seche cheveux - creme en general""";Tarif catalogue;Standard;TTC
+08/10/2013;Client;;Muzas;Anna;3, rue Maryze Bastie;11000;Carcassonne;09 52 17 09 37;;;;anna.muzas@aliceadsl.fr;0;;;;;non;non;10064/543 Je lui dois 1,10?;Tarif catalogue;Standard;TTC
+12/03/2014;Prospect;;Dieudonne;Paul;17, rue du Sors;81540;Soreze;;06 66 99 67 93;;;;0;;;;;non;non;3;Tarif catalogue;Standard;TTC
+07/04/2011;Client;;Rastoul;Claudine;"14, rue des Saules La Landelle haute""""";31250;Revel;05 61 27 69 20;;;;Sans;0;;;;;non;non;01024/339 ;Tarif catalogue;Standard;TTC
+13/03/2014;Prospect;;Hainaut;Graziella;1, chemin En Taillade;81540;Soreze;;06 22 20 11 60;;;;0;;;;;non;non;3;Tarif catalogue;Standard;TTC
+12/03/2014;Prospect;;Bouchet;Patricia;19, rue du Sors;81540;Soreze;05 63 74 19 10;;;;;0;;;;;non;non;3;Tarif catalogue;Standard;TTC
+12/03/2014;Prospect;;Cortes;Valerie;142, chemin de la Landelle;81540;Soreze;05 63 50 20 68;;;;;0;;;;;non;non;3;Tarif catalogue;Standard;TTC
+12/12/2012;Client;;Parisot;Paulette;16, chemin d'En Teste;81540;Soreze;05 61 81 60 98;;;;;0;;;;;non;non;03045/494 relance le 2/5/13 avec griff.-Ns tube-eponge lavette;Tarif catalogue;Standard;TTC
+13/03/2014;Prospect;;Blanquet;Jean;"Pont de la Mayre""""";31250;Revel;05 67 33 84 62;;;;;0;;;;;non;non;1;Tarif catalogue;Standard;TTC
+13/03/2014;Prospect;;Calvet;Andre;298, chemin de la Landelle;81540;Soreze;05 63 74 12 67;;;;;0;;;;;non;non;3;Tarif catalogue;Standard;TTC
+12/03/2014;Prospect;;Monjardez;Dorothee;15, rue du Sors;81540;Soreze;05 63 71 73 21;;;;;0;;;;;non;non;3;Tarif catalogue;Standard;TTC
+12/03/2014;Prospect;;Samah;Kakadija;11, rue du Sors;81540;Soreze;05 63 70 71 25;;;;;0;;;;;non;non;3;Tarif catalogue;Standard;TTC
+13/03/2014;Prospect;;Eaton;Carolyn;"Vigourou""""";81540;Soreze;05 63 37 00 98;;;;;0;;;;;non;non;3;Tarif catalogue;Standard;TTC
+13/03/2014;Prospect;;Summeur;Karine;"Pont de la Mayre""""";31250;Revel;;06 19 16 68 72;;;;0;;;;;non;non;1;Tarif catalogue;Standard;TTC
+03/03/2010;Client;;Palau;Sylvette;18, chemin Pech-Redon;11400;Lasbordes;04 68 94 84 08;;;;;0;;;;;non;non;08044/319;Tarif catalogue;Standard;TTC
+30/10/2013;Client;;Vialette;Laurent;9, chemin d'En Blanc;11400;Issel;04 68 23 92 77;;;;;2;;;;;non;non;5;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Pattier;Sophie;Chemin de la Valbasse;11400;Villeneuve/Comptal;04 68 94 86 42;;;;stephanepattier@hotmail.com;0;;;;;non;non;04014/213;Tarif catalogue;Standard;TTC
+08/04/2014;Prospect;;Aribaud;Colette;2, chemin du Pigeonnier;11400;Labecede;04 68 60 45 03;;;;;1;;;;;non;non;5;Tarif catalogue;Standard;TTC
+22/11/2012;Client;;Opsomer;Cecilia;"Residence la liberte"" Apt 6""";11150;Villepinte;04 68 94 27 64;;;;cecilia.opsmer@wanadoo.fr;0;;;;;non;non;08063/491;Tarif catalogue;Standard;TTC
+08/01/2013;Client;;Derache ;Stephanie;6, lotissement Montplaisir;11230;Chalabre;04 68 31 00 82;;;;stephaniederache@orange.fr;0;;;;;non;non;10051/496 M. FOUET;Tarif catalogue;Standard;TTC
+31/07/2013;Client;;Xiong;Blanche;218, allee des Erables;11400;Castelnaudary;04 68 94 04 27;;;;dawb.thao@orange.fr;0;;;;;non;non;09082/566;Tarif catalogue;Standard;TTC
+10/04/2014;Client;;Bouis;Celine;chemin de Courzan;31250;Revel;;06 25 78 57 88;;;;0;;;;;non;non;1;Tarif catalogue;Standard;TTC
+07/05/2014;Prospect;;Hutchings;;chemin de la Rouminguiere;31250;Revel;05 61 83 51 88;;;;;2;Infirmiere;;61 e 80;;non;non;1;Tarif catalogue;Standard;TTC
+09/03/2014;Prospect;;Rouault;Thierry;4, rue Georges Sand;31250;Revel;05 61 27 58 97;;;;;0;;;;;non;non;1;Tarif catalogue;Standard;TTC
+03/06/2014;Prospect;;Cazes;Mylene;6, rue du Pigeonnier;11400;Labecede Lauragais;04 68 60 28 99;;;;;0;;;;;non;non;5;Tarif catalogue;Standard;TTC
+04/06/2014;Client;;Ferreira;Sabine;3, rue de l'Ange;81110;Saint Amancet;05 63 50 63 31;06 12 85 30 55;;;;0;;;;;non;non;10070/575;Tarif catalogue;Standard;TTC
+12/05/2009;Client;;Van Balkom;Corinne;"Les Mouilleres""""";11400;La Pomaredee;;06 26 96 29 33;;;cmvb@live.fr;0;;;;;non;non;07007/038;Tarif catalogue;Standard;TTC
+01/03/2012;Client;;Scaldalai;Veronique;1, chemin du Pieonnier;11150;Villepinte;04 68 60 22 93;;;;;0;;;;;non;non;08058/428;Tarif catalogue;Standard;TTC
+15/05/2014;Client;;Buol;Carine;56, route de Mazeres;11400;Villeneuve la Comptal;04 68 23 86 71;06 74 33 14 81;;;carineclaverie@orange.fr;0;;;;;non;non;04085/572      Claverie Par Mme Scadalai;Tarif catalogue;Standard;TTC
+19/06/2014;Prospect;;Carvero;Letitia;;11400;Saint Papoul;04 68 94 88 65;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+19/06/2014;Prospect;;Mirouze;Gilbert;"La Medecine""e""";11400;Saint Papoul;;06 64 16 22 20;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+19/06/2014;Prospect;;Lim;King;"Les Mimosas"" chemin de la Medecine""";11400;Saint Papoul;06 89 47 37 78;06 89 47 37 78;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+22/09/2011;Client;;Rostoll;Frederique;2, lot. le Moulin;11400;St Papoul;04 68 94 85 41;;;;frederiquerostoll@orange.fr;0;;;;;non;non;08055/400 ;Tarif catalogue;Standard;TTC
+14/04/2010;Client;;Blauwblomme;J-Pierre;45, allee des Erables;11400;Castelnaudary;04 68 23 39 81;;;;jean-pierre.blauwmblomme@orange.fr;0;;;;;non;non;09043/192;Tarif catalogue;Standard;TTC
+30/05/2014;Client;;Lannes;Annette;9, lotissement Le Moulin;11400;Saint Papoul;04 68 94 83 27;;;;;0;;;;;non;non;08070/582;Tarif catalogue;Standard;TTC
+01/07/2014;Prospect;;Bal;Christine;"Le Louisot""""";81700;Garrevaqies;05 63 75 22 56;;;;;0;;;;;non;non;10;Tarif catalogue;Standard;TTC
+16/07/2014;Prospect;;Ballay;Franck;"Pages""""";11150;Villasavary;05 68 24 71 02;;;;;0;;;;;non;non;6;Tarif catalogue;Standard;TTC
+05/06/2014;Client;;Dog Star;;17 bis, rue de Vaure;31250;Revel;;;05 61 83 96 17;;lydia.poussines@wanadoo.fr;0;;;;;non;non;01035/579;Tarif catalogue;Standard;TTC
+06/08/2010;Prospect;;Planque;Christine;"Saporte""""";11320;Montferrand;04 68 60 16 59;;;;;0;;;;;non;non;7;Tarif catalogue;Standard;TTC
+23/10/2013;Client;;Vallati;Sylvie;"Versaille""""";11410;Payra sur l'Hers;04 68 94 13 84;;;;syxval@yahoo.fr;0;;;;;non;non;04084/567;Tarif catalogue;Standard;TTC
+27/08/2014;Prospect;;Cellier;Martine;31, rue du Baril;11150;Villasavary;;;;;;1;;;;;non;non;i06;Tarif catalogue;Standard;TTC
+27/08/2014;Prospect;;Siffre;Odette;1, rue de la Glaciere;11150;Villasavary;04 68 24 71 98;;;;;1;;;;;non;non;6;Tarif catalogue;Standard;TTC
+23/04/2010;Client;;Perri;Marc;16, chemin Petit e Petit;11400;Villeneuve/Comptal;;06 24 40 66 75;;;delphine.perri@free.fr;0;;;;;non;non;04005/194;Tarif catalogue;Standard;TTC
+13/03/2014;Client;;Bonnet;Carmen;"Pont de la Mayre""""";31250;Revel;05 67 06 39 04;;;;;0;;;;;non;non;01034/565;Tarif catalogue;Standard;TTC
+04/09/2014;Prospect;;Fala;Sylvie;293, chemin de Ricaud;11400;Ricaud;;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+05/06/2009;Client;;Dudek;Stephanie;rue du Moulin Bas;11150;Pexiora;;06 62 71 52 66;;;raphael.dudek@bbox.fr;5;Infirmiere;;;;non;non;06010/046 RV mardi 3 avril en commande : -1x 112 -1x hakabella -1x gel WC -1x detartrant WC ;Tarif catalogue;Standard;TTC
+19/09/2014;Prospect;;Aribaud;Michele;13, rue des Moulins;11150;Carlipa;04 68 94 29 78;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+12/07/2013;Client;;Mahmoud;Neziha;28, chemin de l'Orme;11150;Villasavary;04 68 78 20 41;;;;;2;;;;;non;non;06054/588;Tarif catalogue;Standard;TTC
+04/10/2012;Client;;Caillaud;Jean-Franeois;"Villenouvette""""";11150;Villepinte;04 68 94 25 34;;;;jfcaillaud@gmail.com;2;;;;;non;non;08072/589;Tarif catalogue;Standard;TTC
+04/09/2014;Client;;Lanery;Carine;10, rue des Jardins;11400;Castelnaudary;06 21 09 14 22;;;;carine.lanery@gmail.com;0;;;;;non;non;09088/590;Tarif catalogue;Standard;TTC
+08/10/2014;Client;;Marion;Isabelle;"En Serie""""";11400;La Pomarede;04 68 60 19 26;06 21 31 03 75;;;;0;;;;;non;non;7;Tarif catalogue;Standard;TTC
+08/10/2014;Prospect;;Risueno;Evelyne;;11400;La Pomarede;;06 72 68 12 63;;;;0;;;;;non;non;7;Tarif catalogue;Standard;TTC
+08/11/2011;Client;;Mekerri;Hanida;7, chemin de la Cruzolle;11400;Castelnaudary;04 68 94 17 06;06 25 85 09 51;;;amida.mekerri@gmail.fr;3;;;;;non;non;09067/461 remis 1 tube le 8/11/11 + un deuxieme tube + une eponge lavette + une creme lavante AV le 26/4/12;Tarif catalogue;Standard;TTC
+22/07/2014;Client;;Riviere;Anne;29, chemin de Saporte;11320;Montferrand;04 68 60 19 24;;;;philippe.anne.riviere@orange.fr;0;;;;;non;non;07030/592;Tarif catalogue;Standard;TTC
+17/07/2012;Client;;Olejnik;Monika;"Las Courtines""""";11270;Gaja la Selve;04 68 60 17 56;;;;monika.olejnik@laposte.net;0;;;;;non;non;02030/476;Tarif catalogue;Standard;TTC
+01/09/2010;Client;;Foin;Marlene;9, rue des Amandiers;11150;Pexiora;04 68 60 46 35;;;;pexiora11150@free.fr;0;;;;;non;non;06029/275;Tarif catalogue;Standard;TTC
+13/03/2014;Client;;Cohidon;Michelle;273, chemin de la Landelle;81540;Soreze;;0616 97 33 38;;;babouchco@yahoo.fr;0;;;;;non;non;03060/578;Tarif catalogue;Standard;TTC
+12/03/2014;Client;;Daugey;Valerie;204, chemin de la Landelle;81540;Soreze;;06 19 34 68 50;;;valeriedaugey@gmail.com;0;;;;;non;non;03057/564;Tarif catalogue;Standard;TTC
+10/11/2010;Client;;Assemat;Pascal;10, rue des Cedres;11400;Baraigne;04 68 60 11 54;;;;v.assemat@orange.fr;3;;;;;oui;non;04042/305;Tarif catalogue;Standard;TTC
+21/06/2010;Client;;Assemat;Patricia;"Astruc""  D 33""";11150;Villepinte;04 68 94 30 76;;;;;0;;;;;non;non;08065/506;Tarif catalogue;Standard;TTC
+29/04/2011;Client;;Bosch;Brigitte;2, rue du Monument;11400;Mas Stes Puelles;04 68 94 14 17;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+08/02/2011;Client;;Fesien;Charles;"La Micoulade""""";11400;Labecede;04 68 60 41 73;;;;;1;;;;;non;non;05049/318;Tarif catalogue;Standard;TTC
+13/01/2016;Client;;Sabatte;Maryse;"La Capelle""""";11400;St Martin;04 68 94 91 90;;;;;0;;;;;non;non;08 Premiere prospection 11 juin 2009 proprietaires d'un gete;Tarif catalogue;Standard;TTC
+04/05/2009;Client;;Alquier;Simone;27b, avenue Paul Riquet;11400;Castelnaudary;04 68 23 05 54;;;;;1;Retraites;;;;non;non;09002/005 ;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Imbert;Paulette;"""Lassalle"""" D218""""";;Montferrand;04 68 60 10 67;;;;;0;;;;;non;non;7011;Tarif catalogue;Standard;TTC
+05/01/2015;Client;;Cornary;Julien;8, route Departementalde 302;11400;Labecede;;06 89 80 69 20;;;;3;;;;;oui;non;5;Tarif catalogue;Standard;TTC
+27/03/2013;Client;;Barabas;Francine;1, rue Louis David;11400;Castelnaudary;06 71 94 01 29;;;;francine.rios@neuf.fr;0;;;;;non;non;09072/509 Un avoir sur la facture du 10/6 de 2.50? soit la valeur du catalogue habite sur SIGEAN ;Tarif catalogue;Standard;TTC
+04/05/2009;Client;;Lingua;Nicole;10, rue Auguste Galtie;11400;Castelnaudary;04 68 23 25 09;;;;nicolelingua@gmail.com;2;Retraites;;;;non;non;09001/006;Tarif catalogue;Standard;TTC
+15/05/2009;Client;;Assemat;Viviane;4, rue du Moulin Bas Pexiora;11150;Pexiora;04 68 94 92 38;;;;v.assemat@orange.fr;3;;;;;oui;non;06014/????;Tarif catalogue;Standard;TTC
+19/03/2014;Client;;Roux;Celine;5, rue du Sol;11400;Castelnaudary;07 70 44 96 46;;04 68 23 95 17;;c.roux088@orange.fr;0;;;;;non;non;09083/573 prenais pour faire plaisir;Tarif catalogue;Standard;TTC
+27/05/2015;Client;;Pavant;Marianne;rue du Gal d'Hautpoul;11400;Saint Papoul;04 68 94 87 20;06 81 74 45 81;;;;0;;;;;non;non;8;Tarif catalogue;Standard;TTC
+30/04/2012;Client;;Gojone;Alain;16, chemin des Yvelines;6530;Peymeinade;;06 29 55 09 61;;;alain.gojone@laposte.net;0;;;;;non;non;10037/452 region alpes maritime;Tarif catalogue;Standard;TTC
+12/03/2014;Client;;Aarab;Najat;1, rue du Sors;81540;Soreze;;06 52 91 92 28;;;;0;;;;;non;non;03059/569;Tarif catalogue;Standard;TTC
+06/07/2016;Client;;Galache;Elodie;8, rue Henry Mazet;11400;Castelnaudary;04 68 60 20 15;07 87 24 33 81;;;g.elodie@hotmail.fr;4;;;;;oui;non;;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Meister;Daniele;"Monplaisir""  D15""";11270;Laurac;04 68 60 52 89;;;;meister.henry@gmail.com;0;;;;;non;non;2013;Tarif catalogue;Standard;TTC
+08/09/2015;Client;;Laperche;Gwendoline;8, chemin Boutaric;11400;Mas Saintes Puelles;;;;;;0;;;;;non;non;04921/627;Tarif catalogue;Standard;TTC
+23/03/2012;Client;;Soula;Marie-Jane;"Soulayre""""";11400;Fonters du Razes;04 68 60 52 43;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Maris;Danielle;"Garric""""";11400;Lasbordes;04 68 94 29 79;;;;jean.pierre-maris@orange.fr;0;;;;;non;non;08054/399;Tarif catalogue;Standard;TTC
+20/05/2015;Client;;Les Tresors de Juliane;;"Le Petre 6, impasse de la Miquelle""";11400;Mireval Lauragais;;;;;;0;;;;;non;non;02036/617;Tarif catalogue;Standard;TTC
+17/10/2012;Client;;Lapassat;Marie-Claire;"Cantoperlic""""";81540;Belleserre;05 63 73 25 89;;;;mc.lapassat@gmail.com;3;;;;;non;non;03042/482;Tarif catalogue;Standard;TTC
+05/11/2014;Client;;Quinet;Christine;5, chemin de la Croix;11400;Labecede;04 68 23 87 01;;;;christine.quinet@outloock.fr;2;;;;;oui;non;05062/607;Tarif catalogue;Standard;TTC
+26/05/2009;Client;;Hutt;Pascal;19, route de Treville;11400;Peyrens;04 68 94 02 39;06 24 57 81 64;;;pascal.hutt@gmail.com;0;;;;;non;non;08003/041;Tarif catalogue;Standard;TTC
+14/05/2009;Client;;Campagne;Suzette;31, rue Robert Schuman;11400;Castelnaudary;04 68 23 52 83;;;;campagne.guy@wanadoo.fr;3;Retraites;;;;non;non;09004/003;Tarif catalogue;Standard;TTC
+15/05/2014;Client;;Cavalli;Bernadette;1, Square Victor Hugo;11400;Castelnaudary;04 30 35 61 50;06 25 83 67 23;;;;1;;;;;non;non;09084/574 Par Mme Amiez   Srodorant  ;Tarif catalogue;Standard;TTC
+11/06/2009;Client;;Bardou;Monique;9, place de l'Eglise;11400;villeneuve la Comptal;04 68 23 28 01;06 13 13 20 08;;;regus.monique@gmail.com;2;;;;;non;non;05012/044;Tarif catalogue;Standard;TTC
+26/05/2015;Client;;Faury;Raymonde;4, Chemin de Saint Antoine;11170;Saint Martin le Vieil;04 68 76 02 18;;;;;2;;;;;non;non;08078/650;Tarif catalogue;Standard;TTC
+25/04/2017;Client;;Duclos;Evelyne;;;;;;;;;2;;;;;non;non;;Tarif catalogue;Standard;TTC
+04/06/2015;Client;;Masson;Maryse;35, chemin de la Barthe;11290;Lavalette;04 68 26 83 22;;;;;2;;;;;non;non;10;Tarif catalogue;Standard;TTC
+16/04/2012;Client;;Ecole de Fendeilles;;"Le Chateau""""";11400;Fendeilles;;;;;fendeille@free.fr;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+07/01/2017;Client;;Caron;Veronique;Chemin de Coursan;31250;Revel;06 62 59 42 98;;;;;6;Vente e domicile;;20 e 40;;non;non;;Tarif catalogue;Standard;TTC
+24/09/2014;Client;;Primien;Marie-Luce;5, rue Caves Vieilles;11400;Lasbordes;04 68 94 91 26;06 50 17 28 62;;;raymond.primien@orange.fr;0;;;;;non;non;08073/591;Tarif catalogue;Standard;TTC
+19/01/2017;Client;;Larroque;Angelique;4 lotissement des jardins;11400;villeneuve la comptal;06 29 80 17 64;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+05/08/2010;Client;;Larroque;Michel;20, rue Barri Grand;11320;Montferrand;04 68 60 13 09;;;;michel.larroque0135@orange.fr;0;;;;;non;non;07022/308;Tarif catalogue;Standard;TTC
+04/12/2010;Client;;Villemin;Bernadette;12, chemin de l'Autan;81540;Soreze;05 63 74 19 23;;;;b_villemingellat@orange.fr;0;;;;;non;non;03021/303;Tarif catalogue;Standard;TTC
+13/02/2013;Client;;Courthieu;Catherine;"Peraud""""";11270;Gaja la Selve;;;;;;0;;;;;non;non;02031/503;Tarif catalogue;Standard;TTC
+01/12/2009;Client;;Andre ;Pauline ;28, chemin de Sahut ;81540;Soreze;06 75 61 66 60;;05 34 66 05 65;;pauline.andre1011@hotmail.fr;2;;;;;non;non;03009/170;Tarif catalogue;Standard;TTC
+02/07/2009;Client;;Ricard;Sylvie;"La Bourdette""""";11400;Issel;04 68 60 43 51;;;;jer_ricard@yahoo.fr;2;;;;;oui;non;05019/059;Tarif catalogue;Standard;TTC
+27/11/2013;Client;;Aversenq;Lucienne;"Le Bourg""""";81700;Garrevaques;05 63 75 06 91;;;;;0;;;;;non;non;10;Tarif catalogue;Standard;TTC
+15/02/2012;Client;;Haouy;Dorothee;rue du Cheteau;11400;Villeneuve la Comptal;;;;;haouy.jm@gmail.com;0;Entretien locaux;;;;non;non;04066/425;Tarif catalogue;Standard;TTC
+11/12/2009;Client;;Ruiz;Anna;11, chemin de la Cluzole;11400;Castelnaudary;04 68 94 15 55;;;;;2;Retraites;;;;non;non;09018/148;Tarif catalogue;Standard;TTC
+11/02/2015;Client;;Semenou;Nicole;"Les Itiers""""";11400;Puginier;04 68 60 43 71;;;;jacques.semenou@wanadoo.fr;0;;;;;non;non;07032/608;Tarif catalogue;Standard;TTC
+12/04/2016;Client;;Tourneret;Edith;Impasse du Jouncas;11400;Villeneuve la comptal;04 68 60 19 35;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+27/10/2011;Client;;Del Bano;Serge;"Le Passelis""""";11400;Mas Stes Puelles;04 68 23 82 61;;;;sergedelbano@yahoo.com;0;;;;;non;non;04072/447;Tarif catalogue;Standard;TTC
+26/02/2015;Client;;Siguier;Catherine;4, avenue Luis Ocana;11610;Pennautier;04 68 26 55 09;06 50 47 93 76;;;catherine.siguier@yahoo.fr;6;;;;;oui;non;10079/610 par M. Dupebe MESSAGE LE 19/04/17;Tarif catalogue;Standard;TTC
+19/10/2018;Client;;FRESCHI;Marie Paule;7 rue Tujos;31210;Martres de Riviere;06 82 74 03 38;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+06/01/2017;Client;;Pujet;;96 Avenue Monseigneur Delangle;11400;Castelnaudary;;;;;;1;;;;;non;non;;Tarif catalogue;Standard;TTC
+26/06/2010;Client;;Studer;Bernadette;17, chemin vieux;11400;Villeneuve/Comptal;06 63 92 91 91;;;;flirty.studer@laposte.net;2;;;;;oui;non;04021/243 M. Gertiser;Tarif catalogue;Standard;TTC
+17/10/2018;Client;;BATMALLE;Marie Claude;14 Rue du Goutil;31210;Ponlat Taillebourg;06 86 27 70 43;;;;;0;;;;;non;non;;Tarif catalogue;Standard;TTC
+07/03/2017;Client;;Baysset;Nancy;Domaine de ferrals;11400;Saint Papoul;06 85 70 06 57;;;;nancy.baysset@wanadoo.fr;1;Retraites;;;;oui;non;;Tarif catalogue;Standard;TTC
+12/08/2010;Client;;Huc;Michel;6, rue des Fleurs;11400;Ricaud;04 68 60 04 25;;;;hucmichelvero588@orange.fr;2;;;;;non;non;04055/389;Tarif catalogue;Standard;TTC
+04/03/2012;Client;;Roy;Nicole;2, rue des Vignerons  Gresillon;17480;Le Chateau d'Oleron;05 46 76 99 59;06 11 17 57 25;;;;2;Retraites;;;;non;non;09044/202 ;Tarif catalogue;Standard;TTC
+11/09/2009;Client;;Viguier;Arlette;10, avenue de Soreze;31250;Revel;05 61 83 52 49;;;;;0;;;;;non;non;01003/098;Tarif catalogue;Standard;TTC
+08/12/2009;Client;;Dupebe;Suzy;96 Avenue Monseigneur Delangle;11400;castelnaudary;04 68 94 89 82;06 67 25 49 63;04 68 94 34 50;;suzy.dupebe@wanadoo.fr;0;;;;;oui;non;06007/015;Tarif catalogue;Standard;TTC

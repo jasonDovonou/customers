@@ -1,13 +1,104 @@
-<ion-tabs>
-  <ion-tab-bar slot="bottom">
-    <ion-tab-button mode="md" tab="visits">
-      <ion-icon name="calendar"></ion-icon>
-    </ion-tab-button>
-    <ion-tab-button mode="md" tab="settings">
-      <fa-icon icon="cog"></fa-icon>
-    </ion-tab-button>
-    <ion-tab-button mode="md" tab="customers">
-      <ion-icon name="person"></ion-icon>
-    </ion-tab-button>
-  </ion-tab-bar>
-</ion-tabs>
+<ion-header mode="ios">
+  <ion-toolbar mode="ios" color="primary">
+    <ion-title mode="ios">
+      {{title}}
+    </ion-title>
+    <ion-buttons mode="md" slot="end">
+      <ion-button (click)="new()" style="color:white">
+        <fa-icon [icon]="faPlusCircle"></fa-icon>
+      </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+  <ion-grid class="footer">
+    <ion-row>
+      <ion-col class=" ">
+        <ion-button (click)="switch('visit')">
+          <ion-icon mode="md" name="calendar"></ion-icon>
+        </ion-button>
+      </ion-col>
+      <ion-col class=" ">
+        <ion-button (click)="switch('activ')">
+          <ion-icon mode="md" name="walk"></ion-icon>
+        </ion-button>
+      </ion-col>
+      <ion-col class=" ">
+        <ion-button (click)="switch('inactiv')">
+          <ion-icon mode="md" name="bed"></ion-icon>
+        </ion-button>
+      </ion-col>
+      <ion-col class=" ">
+        <ion-button (click)="switch('settings')">
+          <fa-icon mode="md" icon="cog"></fa-icon>
+        </ion-button>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-header>
+<ion-content>
+  <ion-grid *ngIf="customers.length && !settings">
+    <ion-row class="blue">
+      <ion-col size="1" class="cell heads">
+        Nom
+      </ion-col>
+      <ion-col size="1" class="cell heads">
+        Prénom
+      </ion-col>
+      <ion-col size="1" class="cell heads">
+        CP
+      </ion-col>
+      <ion-col size="1" class="cell heads">
+        Ville
+      </ion-col>
+      <ion-col size="2" class="cell heads">
+        Tel
+      </ion-col>
+      <ion-col size="2" class="cell heads">
+        Portable
+      </ion-col>
+      <ion-col size="2" class="cell heads">
+        Bureau
+      </ion-col>
+      <ion-col size="2" class="cell heads">
+        Divers
+      </ion-col>
+    </ion-row>
+    <ion-virtual-scroll [items]="displayed" approxItemHeight="320px">
+      <ion-row *virtualItem="let customer; let i = index" [ngClass]="i%2 ?  'blue' : 'white'"
+        [routerLink]="['/detail/'+customer.id]">
+        <ion-col size="1" class="cell">
+          {{customer.name}}
+        </ion-col>
+        <ion-col size="1" class="cell">
+          {{customer.firstname}}
+        </ion-col>
+        <ion-col size="1" class="cell">
+          {{customer.cp}}
+        </ion-col>
+        <ion-col size="1" class="cell">
+          {{customer.city}}
+        </ion-col>
+        <ion-col size="2" class="cell">
+          {{customer.number}}
+        </ion-col>
+        <ion-col size="2" class="cell">
+          {{customer.phone}}
+        </ion-col>
+        <ion-col size="2" class="cell">
+          {{customer.office}}
+        </ion-col>
+        <ion-col size="2" class="cell">
+          {{customer.other}}
+        </ion-col>
+      </ion-row>
+    </ion-virtual-scroll>
+  </ion-grid>
+  <ion-list *ngIf="settings">
+    <ion-item lines=none mode="ios" style="font-size:13px;text-align:center">
+      Nombre de jours à partir duquel les clients sont considérés comme étant à visiter (par défaut 7)
+    </ion-item>
+    <ion-item lines=none mode="ios">
+      <ion-label position="fixed" style="font-size:13px">Nombre de jours </ion-label>
+      <ion-input type=number min="0" [(ngModel)]="display" (ionChange)="save()" required></ion-input>
+    </ion-item>
+  </ion-list>
+</ion-content>

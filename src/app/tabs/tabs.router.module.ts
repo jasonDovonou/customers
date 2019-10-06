@@ -4,49 +4,13 @@ import { TabsPage } from './tabs.page';
 
 const routes: Routes = [
   {
-    path: 'tabs',
+    path: '',
     component: TabsPage,
-    children: [
-      {
-        path: 'customers',
-        children: [
-          {
-            path: '',
-            loadChildren: () =>
-              import('../customers/customers.module').then(m => m.CustomersPageModule)
-          }
-        ]
-      },
-      {
-        path: 'visits',
-        children: [
-          {
-            path: '',
-            loadChildren: () =>
-              import('../visits/visits.module').then(m => m.VisitsPageModule)
-          }
-        ]
-      },
-      {
-        path: 'settings',
-        children: [
-          {
-            path: '',
-            loadChildren: () =>
-              import('../settings/settings.module').then(m => m.SettingsPageModule)
-          }
-        ]
-      },
-      {
-        path: '',
-        redirectTo: '/tabs/visits',
-        pathMatch: 'full'
-      }
-    ]
+
   },
   {
     path: '',
-    redirectTo: '/tabs/visits',
+    redirectTo: '/tabs',
     pathMatch: 'full'
   }
 ];

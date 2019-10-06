@@ -24,12 +24,14 @@ export class Customer {
     tarif: string;
     model: string;
     invoice: string;
+    active: number;
     last: string;
     period: number;
     next: string;
     constructor() {
         this.last = Customer.convertDate(new Date());
         this.period = 0;
+        this.active = 1;
     }
 
     public static convertDate(inputFormat) {

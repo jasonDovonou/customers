@@ -11,11 +11,11 @@ import { Customer } from './model/Customer';
 export class TabsPage extends RouterPage implements OnDestroy {
   faPlusCircle = faPlusCircle;
   display = 7;
-  customers: Customer[] = [];
-  displayed: Customer[] = [];
-  visits: Customer[] = [];
-  actives: Customer[] = [];
-  inactives: Customer[] = [];
+  customers: Customer[];
+  displayed: Customer[];
+  visits: Customer[];
+  actives: Customer[];
+  inactives: Customer[];
   settings: boolean;
   title = 'A Visiter';
   constructor(private db: DatabaseService, private router: Router, private route: ActivatedRoute) { super(router, route) }
@@ -24,6 +24,9 @@ export class TabsPage extends RouterPage implements OnDestroy {
     else this.display = Number(localStorage.getItem('display'));
     const date = Customer.addDays(new Date(), Number(this.display));
     this.db.getCustomers().subscribe(customers => {
+      this.visits = [];
+      this.actives = [];
+      this.inactives = [];
       this.customers = customers;
       customers.forEach(customer => {
         if (customer.next && new Date(customer.next) <= date) this.visits.push(customer);
@@ -34,7 +37,7 @@ export class TabsPage extends RouterPage implements OnDestroy {
       this.displayed = this.visits;
     })
   }
-  save() { if (this.display > 0) localStorage.setItem('display', this.display.toString()); }
+  save() { if (this.display > 0) localStorage.setItem('display', this.display.toString()); this.db.loadCustomers(); }
   new() { this.router.navigate(['/detail/-1']); }
   switch(type) {
     switch (type) {

@@ -22,7 +22,7 @@ export class DetailPage extends RouterPage implements OnDestroy {
         this.customer = cus;
       });
   }
-  async  add(add: boolean) {
+  async add(add: boolean) {
     if (this.customer.period < 1) {
       const popup = await this.alertController.create({
         header: 'Sauvegarde',
@@ -32,7 +32,7 @@ export class DetailPage extends RouterPage implements OnDestroy {
             text: 'Non',
             role: 'cancel',
             cssClass: 'secondary',
-            handler: (blah) => { }
+            handler: () => { }
           }, {
             text: 'Oui',
             handler: () => {

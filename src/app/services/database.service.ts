@@ -21,16 +21,21 @@ export class DatabaseService {
       location: 'default'
     })
       .then((db: SQLiteObject) => {
-        this.database = db; this.database.executeSql(this.init, []).then(_ => {
-          this.http.get('assets/seed.sql', { responseType: 'text' })
-            .subscribe(sql => {
-              this.sqlitePorter.importSqlToDb(this.database, sql).then(_ => {
-                alert("done");
-                this.loadCustomers();
-              })
-                .catch(e => console.error(e));
-            });
-        });
+        this.database = db;
+        this.loadCustomers();
+        /*  this.database.executeSql(this.init, []).then(_ => {
+           this.http.get('assets/seed.sql', { responseType: 'text' })
+             .subscribe(sql => {
+               this.sqlitePorter.importSqlToDb(this.database, sql).then(_ => {
+                 alert("done");
+                 this.loadCustomers();
+               })
+                 .catch(e => {
+                   alert('ee');
+ 
+                 });
+             });
+         }); */
       });
   }
 
@@ -57,7 +62,7 @@ export class DatabaseService {
             phone: data.rows.item(i).phone,
             office: data.rows.item(i).office,
             fax: data.rows.item(i).fax,
-            other: data.rows.item(i).other,
+            others: data.rows.item(i).others,
             resident: data.rows.item(i).resident,
             activity: data.rows.item(i).activity,
             origin: data.rows.item(i).origin,
@@ -77,12 +82,13 @@ export class DatabaseService {
         }
       }
       this.customers.next(customers);
+      alert("loaded");
     });
   }
 
   addCustomer(customer) {
-    let data = [customer.start, customer.type, customer.sex, customer.name, customer.firstname, customer.adress, customer.cp, customer.city, customer.fixe, customer.phone, customer.office, customer.fax, customer.other, customer.resident, customer.activity, customer.origin, customer.age, customer.water, customer.machine, customer.soft, customer.infos, customer.tarif, customer.model, customer.invoice, customer.active, customer.last, customer.period, customer.next];
-    return this.database.executeSql('INSERT INTO customers(id,start,type,sex,name,firstname,adress,cp,city,fixe,phone,office,fax,others,resident,activity,origin,age,water,machine,soft,infos,tarif,model,invoice,active) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)', data).then(_ => {
+    let data = [customer.start, customer.type, customer.sex, customer.name, customer.firstname, customer.adress, customer.cp, customer.city, customer.fixe, customer.phone, customer.office, customer.fax, customer.others, customer.resident, customer.activity, customer.origin, customer.age, customer.water, customer.machine, customer.soft, customer.infos, customer.tarif, customer.model, customer.invoice, customer.active, customer.last, customer.period, customer.next];
+    return this.database.executeSql('INSERT INTO customers(start,type,sex,name,firstname,adress,cp,city,fixe,phone,office,fax,others,resident,activity,origin,age,water,machine,soft,infos,tarif,model,invoice,active,last,period,next) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)', data).then(_ => {
       this.loadCustomers();
     });
   }
@@ -103,7 +109,7 @@ export class DatabaseService {
         phone: data.rows.item(0).phone,
         office: data.rows.item(0).office,
         fax: data.rows.item(0).fax,
-        other: data.rows.item(0).other,
+        others: data.rows.item(0).others,
         resident: data.rows.item(0).resident,
         activity: data.rows.item(0).activity,
         origin: data.rows.item(0).origin,
@@ -130,8 +136,8 @@ export class DatabaseService {
   }
 
   updateCustomer(customer: Customer) {
-    let data = [customer.start, customer.type, customer.sex, customer.name, customer.firstname, customer.adress, customer.cp, customer.city, customer.fixe, customer.phone, customer.office, customer.fax, customer.other, customer.resident, customer.activity, customer.origin, customer.age, customer.water, customer.machine, customer.soft, customer.infos, customer.tarif, customer.model, customer.invoice, customer.active, customer.last, customer.period, customer.next];
-    return this.database.executeSql(`UPDATE customers SET start=?,type=?,sex=?,name=?,firstname=?,adress=?,cp=?,city=?,fixe=?,phone=?,office=?,fax=?,other=?,resident=?,activity=?,origin=?,age=?,water=?,machine=?,soft=?,infos=?,tarif=?,model=?,invoice=?,active=?,last=?,period=?,next=?  WHERE id = ${customer.id}`, data).then(data => {
+    let data = [customer.start, customer.type, customer.sex, customer.name, customer.firstname, customer.adress, customer.cp, customer.city, customer.fixe, customer.phone, customer.office, customer.fax, customer.others, customer.resident, customer.activity, customer.origin, customer.age, customer.water, customer.machine, customer.soft, customer.infos, customer.tarif, customer.model, customer.invoice, customer.active, customer.last, customer.period, customer.next];
+    return this.database.executeSql(`UPDATE customers SET start=?,type=?,sex=?,name=?,firstname=?,adress=?,cp=?,city=?,fixe=?,phone=?,office=?,fax=?,others=?,resident=?,activity=?,origin=?,age=?,water=?,machine=?,soft=?,infos=?,tarif=?,model=?,invoice=?,active=?,last=?,period=?,next=?  WHERE id = ${customer.id}`, data).then(data => {
       this.loadCustomers();
     })
   }

@@ -12,7 +12,7 @@ export class Customer {
     phone: string;
     office: string;
     fax: string;
-    other: string;
+    others: string;
     resident: string;
     activity: string;
     origin: string;

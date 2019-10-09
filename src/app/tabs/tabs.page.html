@@ -1,7 +1,7 @@
 <ion-header mode="ios">
   <ion-toolbar mode="ios" color="primary">
     <ion-title mode="ios">
-      {{title}} {{displayed?.length}}
+      {{title}} ({{displayed?.length}})
     </ion-title>
     <ion-buttons mode="md" slot="end">
       <ion-button (click)="new()" style="color:white">
@@ -31,10 +31,19 @@
           <fa-icon mode="md" icon="cog"></fa-icon>
         </ion-button>
       </ion-col>
+      <ion-col>
+        <ion-button (click)="switch('search')">
+          <ion-icon name="search"></ion-icon>
+        </ion-button>
+      </ion-col>
     </ion-row>
   </ion-grid>
 </ion-header>
 <ion-content>
+  <ion-item *ngIf="search" lines=none mode="ios">
+    <ion-label position="stacked">Recherche</ion-label>
+    <ion-input [(ngModel)]="pattern" (ionChange)="searching()" required></ion-input>
+  </ion-item>
   <ion-grid *ngIf="customers?.length && !settings">
     <ion-row class="blue">
       <ion-col size="1" class="cell heads">

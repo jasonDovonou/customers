@@ -18,12 +18,14 @@ export class TabsPage extends RouterPage implements OnDestroy {
   inactives: Customer[];
   settings: boolean;
   title = 'A Visiter';
+  search: boolean;
+  pattern: string;
   constructor(private db: DatabaseService, private router: Router, private route: ActivatedRoute) { super(router, route) }
   onEnter(): void {
     if (!localStorage.getItem('display')) localStorage.setItem('display', this.display.toString());
     else this.display = Number(localStorage.getItem('display'));
-    const date = Customer.addDays(new Date(), Number(this.display));
     this.db.getCustomers().subscribe(customers => {
+      const date = Customer.addDays(new Date(), Number(this.display));
       this.visits = [];
       this.actives = [];
       this.inactives = [];
@@ -37,32 +39,44 @@ export class TabsPage extends RouterPage implements OnDestroy {
       this.displayed = this.visits;
     })
   }
-  save() { if (this.display > 0) localStorage.setItem('display', this.display.toString()); this.db.loadCustomers(); }
+  save() {
+    if (this.display > 0) {
+      localStorage.setItem('display', this.display.toString());
+      this.db.loadCustomers();
+    }
+  }
   new() { this.router.navigate(['/detail/-1']); }
   switch(type) {
     switch (type) {
       case 'visit':
-        this.displayed = this.visits;
-        this.title = 'A Visiter';
-        this.settings = false;
+        this.handler(this.visits, 'A Visiter', false, false);
         break;
       case 'activ':
-        this.displayed = this.actives;
-        this.title = 'Actifs';
-        this.settings = false;
+        this.handler(this.actives, 'Actifs', false, false);
         break;
       case 'inactiv':
-        this.displayed = this.inactives;
-        this.title = 'Inactifs';
-        this.settings = false;
+        this.handler(this.inactives, 'Inactifs', false, false);
         break;
       case 'settings':
-        this.title = 'Reglages';
-        this.settings = true;
+        this.handler(this.visits, 'A Visiter', true, false);
+        break;
+      case 'search':
+        this.handler(this.customers, 'Recherche', false, true);
         break;
       default:
         break;
     }
+  }
+  handler(displayed: Customer[], title: string, settings: boolean, search: boolean) {
+    this.displayed = displayed;
+    this.title = title;
+    this.settings = settings;
+    this.search = search;
+  }
+  searching() {
+    this.displayed = this.customers.filter(customer => {
+      return customer.name.toLocaleUpperCase().includes(this.pattern.toLocaleUpperCase()) || customer.firstname.toLocaleUpperCase().includes(this.pattern.toLocaleUpperCase());
+    })
   }
   onDestroy() { super.ngOnDestroy(); }
 }

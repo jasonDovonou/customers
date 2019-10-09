@@ -23,19 +23,16 @@ export class DatabaseService {
       .then((db: SQLiteObject) => {
         this.database = db;
         this.loadCustomers();
-        /*  this.database.executeSql(this.init, []).then(_ => {
-           this.http.get('assets/seed.sql', { responseType: 'text' })
-             .subscribe(sql => {
-               this.sqlitePorter.importSqlToDb(this.database, sql).then(_ => {
-                 alert("done");
-                 this.loadCustomers();
-               })
-                 .catch(e => {
-                   alert('ee');
- 
-                 });
-             });
-         }); */
+        /* this.database.executeSql(this.init, []).then(_ => {
+          this.http.get('assets/seed.sql', { responseType: 'text' })
+            .subscribe(sql => {
+              this.sqlitePorter.importSqlToDb(this.database, sql).then(_ => {
+                alert("Clients Sauvegardés avec Succès !")
+                this.loadCustomers();
+              })
+                .catch(e => { });
+            });
+        }); */
       });
   }
 
@@ -82,7 +79,6 @@ export class DatabaseService {
         }
       }
       this.customers.next(customers);
-      alert("loaded");
     });
   }
 

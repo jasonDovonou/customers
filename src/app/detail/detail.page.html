@@ -8,7 +8,6 @@
     <ion-title>Informations</ion-title>
   </ion-toolbar>
 </ion-header>
-
 <ion-content>
   <ion-grid>
     <ion-row>
@@ -49,9 +48,10 @@
       <ion-col size="1">
       </ion-col>
       <ion-col size="3">
-        <ion-item lines=none mode="ios">
+        <ion-item lines=none mode="ios" (click)="modify=true">
           <ion-label position="stacked">Dernier Passage</ion-label>
-          <ion-input type="date" [(ngModel)]="customer.last" (ionChange)="calc()"></ion-input>
+          <span *ngIf="!modify">{{customer.last | date : 'dd/MM/yyyy'}}</span>
+          <ion-input *ngIf="modify" type="date" [(ngModel)]="customer.last" (ionChange)="calc()"></ion-input>
         </ion-item>
       </ion-col>
     </ion-row>
@@ -71,9 +71,11 @@
       <ion-col size="1">
       </ion-col>
       <ion-col size="3">
-        <ion-item lines=none mode="ios">
+        <ion-item lines=none mode="ios" (click)="modify=true">
           <ion-label position="stacked">Periodicité</ion-label>
-          <ion-input type="number" min="0" [(ngModel)]="customer.period" required (ionChange)="calc()"></ion-input>
+          <span *ngIf="!modify">{{customer.period}}</span>
+          <ion-input *ngIf="modify" type="number" min="0" [(ngModel)]="customer.period" required (ionChange)="calc()">
+          </ion-input>
         </ion-item>
       </ion-col>
     </ion-row>
@@ -93,9 +95,10 @@
       <ion-col size="1">
       </ion-col>
       <ion-col size="3">
-        <ion-item lines=none mode="ios">
+        <ion-item lines=none mode="ios" (click)="modify=true">
           <ion-label position="stacked">Prochain Passage</ion-label>
-          <ion-input type="date" [(ngModel)]="customer.next" (ionChange)="calculate()"></ion-input>
+          <span *ngIf="!modify">{{customer.next | date : 'dd/MM/yyyy'}}</span>
+          <ion-input *ngIf="modify" type="date" [(ngModel)]="customer.next" (ionChange)="calculate()"></ion-input>
         </ion-item>
       </ion-col>
     </ion-row>

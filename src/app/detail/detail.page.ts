@@ -14,6 +14,7 @@ export class DetailPage extends RouterPage implements OnDestroy {
   customer = new Customer();
   changed: boolean;
   changedd: boolean;
+  modify: boolean;
   constructor(public alertController: AlertController, private db: DatabaseService, private router: Router, private route: ActivatedRoute) { super(router, route) }
   onEnter() {
     this.id = this.router.url.split(/[//]/)[2];
@@ -21,6 +22,7 @@ export class DetailPage extends RouterPage implements OnDestroy {
       this.db.getCustomer(this.id).then(cus => {
         this.customer = cus;
       });
+    else this.modify = true;
   }
   async add(add: boolean) {
     if (this.customer.period < 1) {

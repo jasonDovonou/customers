@@ -71,7 +71,7 @@
         Divers
       </ion-col>
     </ion-row>
-    <ion-virtual-scroll [items]="displayed" approxItemHeight="320px">
+    <ion-virtual-scroll [items]="sort('next')" approxItemHeight="320px">
       <ion-row *virtualItem="let customer; let i = index" [ngClass]="i%2 ?  'blue' : 'white'"
         [routerLink]="['/detail/'+customer.id]">
         <ion-col size="1" class="cell">

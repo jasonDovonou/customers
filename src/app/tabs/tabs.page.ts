@@ -20,6 +20,7 @@ export class TabsPage extends RouterPage implements OnDestroy {
   title = 'A Visiter';
   search: boolean;
   pattern: string;
+  day = new Date();
   constructor(private db: DatabaseService, private router: Router, private route: ActivatedRoute) { super(router, route) }
   onEnter(): void {
     if (!localStorage.getItem('display')) localStorage.setItem('display', this.display.toString());
@@ -31,7 +32,11 @@ export class TabsPage extends RouterPage implements OnDestroy {
       this.inactives = [];
       this.customers = customers;
       customers.forEach(customer => {
-        if (customer.next && new Date(customer.next) <= date) this.visits.push(customer);
+        if (customer.next && new Date(customer.next) < this.day) {
+          customer.next = Customer.convertDate(Customer.addDays(new Date(), 15));
+          this.db.updateCustomer(customer);
+        }
+        if (customer.next && new Date(customer.next) < date) this.visits.push(customer);
         if (customer.active) this.actives.push(customer);
         else this.inactives.push(customer);
       })
@@ -74,9 +79,13 @@ export class TabsPage extends RouterPage implements OnDestroy {
     this.search = search;
   }
   searching() {
-    this.displayed = this.customers.filter(customer => {
-      return customer.name.toLocaleUpperCase().includes(this.pattern.toLocaleUpperCase()) || customer.firstname.toLocaleUpperCase().includes(this.pattern.toLocaleUpperCase());
+    this.displayed = [];
+    this.customers.forEach(customer => {
+      if (customer.name.toLocaleUpperCase().includes(this.pattern.toLocaleUpperCase()) || customer.firstname.toLocaleUpperCase().includes(this.pattern.toLocaleUpperCase())) this.displayed.push(customer);
     })
+  }
+  sort(prop) {
+    return this.displayed.sort((a, b) => a[prop] > b[prop] ? 1 : a[prop] === b[prop] ? 0 : -1);
   }
   onDestroy() { super.ngOnDestroy(); }
 }
